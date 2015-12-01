@@ -1,0 +1,17 @@
+Seminarska pri predmetu Računalniška analiza besedil.
+
+Navodila:
+
+Naloga: s pomočjo orodij iz paketa TextGarden izvedite na zbirki besedil naslednje korake:
+
+S programom Txt2Bow pripravite predstavitev v formatu bag-of-words.
+S programom BowKMeans pripravite razvrstitev dokumentov v skupine po metodi k-means za dva različna k in analizirajte rezultate.
+S programom BowTrainBinSVM pripravite klasifikatorje za dve redki in dve pogosti kategoriji. Te klasifikatorje s programom BowClassify uporabite na besedilih iz naslednje zbirke (če ste učili klasifikatorje na zbirki n, poženite klasifikatorje na besedilih iz zbirke n + 1). Izračunajte precision, recall, F1, klasifikacijsko točnost in narišite krivuljo precision/recall.
+Opomba: BowClassify se sesuje, če je bil klasifikator naučen na kategoriji, ki ni imela nobenih negativnih učnih dokumentov; to se pri nekaterih naših zbirkah besedil lahko zgodi npr. s kategorijo GCAT, zato je v svojih poskusih raje ne uporabljajte.
+Kako narišemo krivuljo precision/recall? Testne dokumente uredimo padajoče po vrednosti, ki jo napove klasifikator (s tem je mišljena napoved kot realno število — npr. če je BowClassify pri nekem dokumentu izpisal „1. -0.926 'GPOL'“, je njegova napoved tukaj −0.926), nato pa se vprašamo: „kakšen precision in recall dobimo, če razglasimo prvih k dokumentov za pozitivne, ostale pa za negativne?“ To naredimo za vsak k od 0 do števila dokumentov in dobljene pare ⟨precision, recall⟩ narišemo na grafu, kjer postavimo precision na y-os, recall pa na x-os. Takšna krivulja je zanimiva, ker nam pove, kaksne tradeoffe med precisionom in recallom nam ta model omogoča, če smo pripravljeni spremeniti prag, nad katerim napovedujemo pozitivni razred.
+Prejšnji korak izvedite za dve vrsti jeder: linearna (parameter -t:linear) in polinomska s stopnjo d = 3 (-t:polynomial -ker_p:3).
+Za vsako od uporabljenih štirih kategorij poiščite na internetu po eno besedilo, ki ga klasifikator za tisto kategorijo napove kot pozitiven primer.
+Pripravite poročilo (5-10 strani) in 10-15-minutno predstavitev. (Pri predstavitvi naj nastopijo vsi člani skupine!)
+
+Rok za oddajo: poročila in folije (PowerPoint ali PDF) pošljite na janez.brank@ijs.si do 5. januarja 2016. Predstavitve bodo potekale na predavanjih 12. januarja 2016.
+
