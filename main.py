@@ -16,13 +16,13 @@ def lokacijeProgramov():
     global BowTrainBinSVM
     global BowClassify
     global ucnaZbirkaBesedil
-    global zbirkaBesedil
+    global zbirkaBesedilPreverjanja
     Txt2Bow = knjiznica.lokacijaDatoteke("Lokacija programa Txt2Bow: ")
     BowKMeans = knjiznica.lokacijaDatoteke("Lokacija programa BowKMeans: ")
     BowTrainBinSVM = knjiznica.lokacijaDatoteke("Lokacija programa BowTrainBinSVM: ")
     BowClassify = knjiznica.lokacijaDatoteke("Lokacija programa BowClassify: ")
     ucnaZbirkaBesedil = knjiznica.lokacijaDatoteke("Lokacija besedilne datoteke za ucenje: ")
-    zbirkaBesedil = knjiznica.lokacijaDatoteke("Lokacija besedilne datoteke za prevejanje: ")
+    zbirkaBesedilPreverjanja = knjiznica.lokacijaDatoteke("Lokacija besedilne datoteke za prevejanje: ")
 
 
 def izgradnjaDatotecneStrukture():
@@ -71,11 +71,14 @@ def drugiDel():
     while (vpr == 1):
         clust = input("Na koliko clustrov zelis razdeliti dokument: ")
         #   Ustvari datoteko za vsako število...
-        tmpLokacija = statistikaMapa+clust+"_clustrov/"
-        os.mkdir(tmpLokacija)
-        os.chdir(tmpLokacija)
-        ukaz = BowKMeans + " -i:"+statistikaMapa+"prvo.bow -clusts:"+clust
-        os.system(ukaz)
+        try:
+            tmpLokacija = statistikaMapa+clust+"_clustrov/"
+            os.mkdir(tmpLokacija)
+            os.chdir(tmpLokacija)
+            ukaz = BowKMeans + " -i:"+statistikaMapa+"prvo.bow -clusts:"+clust
+            os.system(ukaz)
+        except:
+            print("Na toliko clustrov se je ze razdelilo...")
         odg = int(input("Zelis ponoviti razdelitev? \n0 == Ne\n1 == Da\nIzbira:"))
         if (odg != 1):
             break
@@ -87,7 +90,7 @@ def obdelavaDrugegaBesedila():
     trenutniSeznamOznak = []
     oznake = []
     print("Obdelava dokumenta v postopku....\nLahko traja nekaj sekund...")
-    ucnoBesedilo = open(ucnaZbirkaBesedil,"r")
+    ucnoBesedilo = open(zbirkaBesedilPreverjanja,"r")
     for vrsta in iter(ucnoBesedilo):
         info, clanek = knjiznica.izlusciPosameznaDela(vrsta)
         trenutniSeznamOznak, stevilkaClanka = knjiznica.infoObdelava(info)
@@ -116,7 +119,7 @@ def obdelavaDrugegaBesedila():
 def tretjiDel():
     vpr = 1
     while(vpr == 1):
-        odg = input("Ponovno odpri datoteko StatistikaOznak.txt? [Y/N]")
+        odg = input("Prikazi podatke o pogostosti klasifikatorjev prvega dokumenta? [Y/N]")
         odg = odg.upper()
         if (odg == "Y"):
             niz = statistikaMapa+"Statistika_Oznak_1.txt"
