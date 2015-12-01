@@ -86,6 +86,27 @@ def drugiDel():
     print("Clustriranje koncano...")
 
 
+def uporabaKlasifikatorjev():
+    vpr = 1
+    while(vpr == 1):
+        print("BowClassify...")
+        kategorija = input("Kategorija: ")
+        jedro = input("Jedro [L... linerna   P... polinomska]: ")
+        kategorija = kategorija.upper()
+        jedro = jedro.upper()
+        lokacijaUcenja = statistikaMapa +kategorija+"_"+jedro+"/prvo.bowmd"
+        print(lokacijaUcenja)
+        if(os.path.isfile(lokacijaUcenja)):
+            print("obstaja...")
+        else:
+            print("Ta klasifikacija ni bila izvedena!")
+
+    odg =input("Zelis ponoviti uporabo BowClassify? \n0 == Ne\n1 == Da\nIzbira:")
+        if (odg != "1"):
+        break
+
+
+
 def obdelavaDrugegaBesedila():
     trenutniSeznamOznak = []
     oznake = []
@@ -113,6 +134,7 @@ def obdelavaDrugegaBesedila():
     To uporabiš kasneje pri preverjanju ali nek dokument res je označen pod neko kategorijo ali ne...
 
     '''
+    uporabaKlasifikatorjev()
     
 
 
