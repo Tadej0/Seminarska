@@ -98,17 +98,30 @@ def drugiDel():
 
 
 def bowClassifyUporaba(lokacijaUcenega, kategorija, jedro):
+    naslovRezultati = statistikaMapa + "Rezultati_" + kategorija + "_" + jedro + ".txt"
+    rezultati = open(naslovRezultati, "a+")
     tmpNaslov = tmpRezultati + kategorija + "_" + jedro+"/"
     os.mkdir(tmpNaslov)
     prviBow = statistikaMapa+"prvo.bow"
+#   Istocasno ko obdelujem z BowC berem rezultate in jih shranjujem v skupno datoteko
     for dokument in seznamDokumentov:
         tmpDatoteka = tmpNaslov + dokument + "/"
         os.mkdir(tmpDatoteka)
         os.chdir(tmpDatoteka)
         ukaz = BowClassify + " -ibow:" + prviBow + " -imd:" + lokacijaUcenega+" -qh:" + razbitiClanki + dokument + ".txt"
         os.system(ukaz)
-
-
+        tmpInfo = "BowCfy.Txt"
+        tmp = open(tmpInfo, "r")
+        string = dokument + ":\t\t" + tmp.readline()
+        string = knjiznica.oskubiBesedilo(string, kategorija)
+        rezultati.write(string)
+        tmp.close()
+    rezultati.close()
+''' sproti ko ustvarja datoteko, naj z nje še prebere informacijo in jo shrani v posebno
+    datoteko poimenovano glede na jedro in klasifikator
+    datoteka naj bo stalno odprta
+    definicija pred zanko!
+'''
 
 def uporabaKlasifikatorjev():
     vpr = 1
