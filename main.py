@@ -36,13 +36,16 @@ def izgradnjaDatotecneStrukture():
     global korenskaMapa
     global statistikaMapa
     global razbitiClanki
+    global tmpRezultati
     korenskaMapa = knjiznica.najdiLokacijoMape(ucnaZbirkaBesedil)
     korenskaMapa = knjiznica.ustvariNovoMapo(korenskaMapa)
     korenskaMapa+="/"
     statistikaMapa = korenskaMapa + "Statistika/"
     razbitiClanki = korenskaMapa + "Razbiti_Clanki/"
+    tmpRezultati = korenskaMapa + "tmpFolder/"
     os.mkdir(statistikaMapa)
     os.mkdir(razbitiClanki)
+    os.mkdir(tmpRezultati)
 
 def prviDel():
     try:
@@ -92,11 +95,18 @@ def drugiDel():
     knjiznica.izpis(N)
     print("Clustriranje koncano...")
 
-def bowClassifyUporaba(lokacijaUcenega):
+
+
+def bowClassifyUporaba(lokacijaUcenega, kategorija, jedro):
+    tmpNaslov = tmpRezultati + kategorija + "_" + jedro+"/"
+    os.mkdir(tmpNaslov)
     prviBow = statistikaMapa+"prvo.bow"
-    ukaz = BowClassify + " -ibow:" + prviBow + " -imd:" + lokacijaUcenega+" -qh:"
-
-
+    for dokument in seznamDokumentov:
+        tmpDatoteka = tmpNaslov + dokument + "/"
+        os.mkdir(tmpDatoteka)
+        os.chdir(tmpDatoteka)
+        ukaz = BowClassify + " -ibow:" + prviBow + " -imd:" + lokacijaUcenega+" -qh:" + razbitiClanki + dokument + ".txt"
+        os.system(ukaz)
 
 
 
@@ -112,7 +122,7 @@ def uporabaKlasifikatorjev():
         print(lokacijaUcenja)
         if(os.path.isfile(lokacijaUcenja)):
             print("Klasifikator in vrsta jedra sta bila izvedena... BowClassify se lahko zazene")
-            bowClassifyUporaba(lokacijaUcenja)
+            bowClassifyUporaba(lokacijaUcenja, kategorija, jedro)
 
 
             "TU SEM OSTAL..."
@@ -130,12 +140,17 @@ def uporabaKlasifikatorjev():
 
 def obdelavaDrugegaBesedila():
     trenutniSeznamOznak = []
+
+#   Seznam dokumentov drzi imena vseh dokumentov, ki jih mora kasneje BowClassify obdelati...
+    global seznamDokumentov
+    seznamDokumentov = []
     oznake = []
     print("Obdelava dokumenta v postopku....\nLahko traja nekaj sekund...")
     ucnoBesedilo = open(zbirkaBesedilPreverjanja,"r")
     for vrsta in iter(ucnoBesedilo):
         info, clanek = knjiznica.izlusciPosameznaDela(vrsta)
         trenutniSeznamOznak, stevilkaClanka = knjiznica.infoObdelava(info)
+        seznamDokumentov.append(stevilkaClanka)
         #   Prehod skozi oznake, še vedno ista vrstica
         for oz in trenutniSeznamOznak:
             tmp = oznaka(oz,stevilkaClanka)
