@@ -72,6 +72,7 @@ def oskubiBesedilo(besedilo, brisiNiz):
             break
         else:
             konec+=1
+    konec +=1
     novNiz=besedilo[0:konec]
     konec = 0
 
