@@ -17,12 +17,19 @@ def lokacijeProgramov():
     global BowClassify
     global ucnaZbirkaBesedil
     global zbirkaBesedilPreverjanja
-    Txt2Bow = knjiznica.lokacijaDatoteke("Lokacija programa Txt2Bow: ")
-    BowKMeans = knjiznica.lokacijaDatoteke("Lokacija programa BowKMeans: ")
-    BowTrainBinSVM = knjiznica.lokacijaDatoteke("Lokacija programa BowTrainBinSVM: ")
-    BowClassify = knjiznica.lokacijaDatoteke("Lokacija programa BowClassify: ")
-    ucnaZbirkaBesedil = knjiznica.lokacijaDatoteke("Lokacija besedilne datoteke za ucenje: ")
-    zbirkaBesedilPreverjanja = knjiznica.lokacijaDatoteke("Lokacija besedilne datoteke za prevejanje: ")
+    Txt2Bow = "D:/Txt2Bow.exe"
+    BowKMeans = "D:/BowKMeans.exe"
+    BowTrainBinSVM = "D:/BowTrainBinSVM.exe"
+    BowClassify = "D:/BowClassify.exe"
+    ucnaZbirkaBesedil = "D:/1.txt"
+    zbirkaBesedilPreverjanja = "D:/2.txt"
+
+    #Txt2Bow = knjiznica.lokacijaDatoteke("Lokacija programa Txt2Bow: ")
+    #BowKMeans = knjiznica.lokacijaDatoteke("Lokacija programa BowKMeans: ")
+    #BowTrainBinSVM = knjiznica.lokacijaDatoteke("Lokacija programa BowTrainBinSVM: ")
+    #BowClassify = knjiznica.lokacijaDatoteke("Lokacija programa BowClassify: ")
+    #ucnaZbirkaBesedil = knjiznica.lokacijaDatoteke("Lokacija besedilne datoteke za ucenje: ")
+    #zbirkaBesedilPreverjanja = knjiznica.lokacijaDatoteke("Lokacija besedilne datoteke za prevejanje: ")
 
 
 def izgradnjaDatotecneStrukture():
@@ -85,6 +92,13 @@ def drugiDel():
     knjiznica.izpis(N)
     print("Clustriranje koncano...")
 
+def bowClassifyUporaba(lokacijaUcenega):
+    prviBow = statistikaMapa+"prvo.bow"
+    ukaz = BowClassify + " -ibow:" + prviBow + " -imd:" + lokacijaUcenega+" -qh:"
+
+
+
+
 
 def uporabaKlasifikatorjev():
     vpr = 1
@@ -97,13 +111,20 @@ def uporabaKlasifikatorjev():
         lokacijaUcenja = statistikaMapa +kategorija+"_"+jedro+"/prvo.bowmd"
         print(lokacijaUcenja)
         if(os.path.isfile(lokacijaUcenja)):
-            print("obstaja...")
-        else:
-            print("Ta klasifikacija ni bila izvedena!")
+            print("Klasifikator in vrsta jedra sta bila izvedena... BowClassify se lahko zazene")
+            bowClassifyUporaba(lokacijaUcenja)
 
-    odg =input("Zelis ponoviti uporabo BowClassify? \n0 == Ne\n1 == Da\nIzbira:")
+
+            "TU SEM OSTAL..."
+
+
+
+        else:
+            print("Specificna klasifikacija ni bila izvedena!")
+
+        odg =input("Zelis ponoviti uporabo BowClassify? \n0 == Ne\n1 == Da\nIzbira:")
         if (odg != "1"):
-        break
+            break
 
 
 
