@@ -116,7 +116,7 @@ def bowClassifyUporaba(lokacijaUcenega, kategorija, jedro):
         infoDatoteka = open(infoNaslov,"r")
         info = infoDatoteka.readline()
     #   Info del o posameznem clanku prebran!
-
+        aliJe = knjiznica.aliNizVsebujeNiz(info, kategorija)
         infoDatoteka.close()
         tmpDatoteka = tmpNaslov + dokument + "/"
         os.mkdir(tmpDatoteka)
@@ -125,7 +125,13 @@ def bowClassifyUporaba(lokacijaUcenega, kategorija, jedro):
         os.system(ukaz)
         tmpInfo = "BowCfy.Txt"
         tmp = open(tmpInfo, "r")
-        string = dokument + ":\t\t" + tmp.readline()
+        niz=tmp.readline()
+        stringOdg = " "
+        if (aliJe == 1):
+            stringOdg = "Vsebuje \t"
+        elif (aliJe == 0):
+            stringOdg = "Ne vsebuje \t"
+        string = stringOdg + dokument +":\t\t" + niz
         string = knjiznica.oskubiBesedilo(string, kategorija)
         rezultati.write(string)
         tmp.close()
@@ -235,7 +241,6 @@ def tretjiDel():
 
     #   preverjanje nad drugim besedilom:
     obdelavaDrugegaBesedila()
-
 
 
 def main():
