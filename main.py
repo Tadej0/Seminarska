@@ -103,10 +103,16 @@ def bowClassifyUporaba(lokacijaUcenega, kategorija, jedro, seznam):
     tmpNaslov = tmpRezultati + kategorija + "_" + jedro+"/"
     os.mkdir(tmpNaslov)
     prviBow = statistikaMapa+"prvo.bow"
+
 #   Istocasno ko obdelujem z BowC berem rezultate in jih shranjujem v skupno datoteko
 #   seznam: uporabi ga na anslednji nacin: ves, kateri clanki so notri. ce je trenutni clanek notri
 #   potem shrani kot 1, drugace kot 0; informacije shrani v datoteko "rezultati"
+
+# Jeba je zdej s tem ker je treba narest nov seznam, brez [] in ''...
+
     for dokument in seznamDokumentov:
+
+
         tmpDatoteka = tmpNaslov + dokument + "/"
         os.mkdir(tmpDatoteka)
         os.chdir(tmpDatoteka)
