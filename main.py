@@ -108,7 +108,7 @@ def bowClassifyUporaba(lokacijaUcenega, kategorija, jedro, seznam):
 #   seznam: uporabi ga na anslednji nacin: ves, kateri clanki so notri. ce je trenutni clanek notri
 #   potem shrani kot 1, drugace kot 0; informacije shrani v datoteko "rezultati"
 
-# Jeba je zdej s tem ker je treba narest nov seznam, brez [] in ''...
+
 
     for dokument in seznamDokumentov:
 
@@ -142,6 +142,12 @@ def uporabaKlasifikatorjev():
         jedro = input("Jedro [L... linerna   P... polinomska]: ")
 
     #   shrani seznam vseh clankov, ki so v tej kategoriji...
+
+    '''
+    Popravi, da bodo clanki brez [ ] in ' '
+    '''
+    
+    
         print("Clanki, ki vsebujejo to kategorijo: ")
         for x in seznamKategorijDrugegaBesedila:
             if(x.ime == klicajKategorija):
