@@ -97,13 +97,15 @@ def drugiDel():
 
 
 
-def bowClassifyUporaba(lokacijaUcenega, kategorija, jedro):
+def bowClassifyUporaba(lokacijaUcenega, kategorija, jedro, seznam):
     naslovRezultati = statistikaMapa + "Rezultati_" + kategorija + "_" + jedro + ".txt"
     rezultati = open(naslovRezultati, "a+")
     tmpNaslov = tmpRezultati + kategorija + "_" + jedro+"/"
     os.mkdir(tmpNaslov)
     prviBow = statistikaMapa+"prvo.bow"
 #   Istocasno ko obdelujem z BowC berem rezultate in jih shranjujem v skupno datoteko
+#   seznam: uporabi ga na anslednji nacin: ves, kateri clanki so notri. ce je trenutni clanek notri
+#   potem shrani kot 1, drugace kot 0; informacije shrani v datoteko "rezultati"
     for dokument in seznamDokumentov:
         tmpDatoteka = tmpNaslov + dokument + "/"
         os.mkdir(tmpDatoteka)
@@ -117,25 +119,37 @@ def bowClassifyUporaba(lokacijaUcenega, kategorija, jedro):
         rezultati.write(string)
         tmp.close()
     rezultati.close()
-''' sproti ko ustvarja datoteko, naj z nje še prebere informacijo in jo shrani v posebno
-    datoteko poimenovano glede na jedro in klasifikator
-    datoteka naj bo stalno odprta
-    definicija pred zanko!
-'''
+    knjiznica.zvok()
+
+
 
 def uporabaKlasifikatorjev():
     vpr = 1
+    '''
+    seznamKategorijDrugegaBesedila... tu uporabim seznam vseh clankov, da vidim ali je res notri...
+    '''
     while(vpr == 1):
         print("BowClassify...")
         kategorija = input("Kategorija: ")
-        jedro = input("Jedro [L... linerna   P... polinomska]: ")
         kategorija = kategorija.upper()
+        klicajKategorija = "!"+kategorija
+        jedro = input("Jedro [L... linerna   P... polinomska]: ")
+
+    #   shrani seznam vseh clankov, ki so v tej kategoriji...
+        print("Clanki, ki vsebujejo to kategorijo: ")
+        for x in seznamKategorijDrugegaBesedila:
+            if(x.ime == klicajKategorija):
+                seznam = x.pojavitevVclanku
+                for clanek in seznam:
+                    print(clanek)
+                break
+
         jedro = jedro.upper()
         lokacijaUcenja = statistikaMapa +kategorija+"_"+jedro+"/prvo.bowmd"
         print(lokacijaUcenja)
         if(os.path.isfile(lokacijaUcenja)):
             print("Klasifikator in vrsta jedra sta bila izvedena... BowClassify se lahko zazene")
-            bowClassifyUporaba(lokacijaUcenja, kategorija, jedro)
+            bowClassifyUporaba(lokacijaUcenja, kategorija, jedro, seznam)
 
 
             "TU SEM OSTAL..."
