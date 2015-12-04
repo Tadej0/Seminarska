@@ -4,6 +4,8 @@ import winsound
 import os
 import requests
 
+def zvok():
+    winsound.PlaySound("SystemExit", winsound.SND_ALIAS)
 
 def izpis(n):
     print()
@@ -197,12 +199,14 @@ def shraniStatistiko(oznake, lokacija, ime):
     os.system(lokacija)
 
 
-def shraniPosamezenClanek(stevilkaClanka,clanek,lokacija):
-    lokacija = lokacija+"/"+stevilkaClanka+".txt"
+def shraniPosamezenClanek(stevilkaClanka,clanek,lokacija, info):
+    if (info == 0):
+        lokacija = lokacija+"/"+stevilkaClanka+".txt"
+    else:
+        lokacija = lokacija+"/"+stevilkaClanka+"_i.txt"
     datoteka = open (lokacija,"w+")
     datoteka.write(clanek)
     datoteka.close()
-
 
 
 #   besedilo s spletne strani
@@ -210,3 +214,5 @@ def spletnoBesedilo():
     naslov = input("URL naslov: ")
     f = requests.get(naslov)
     print (f.text)
+
+
