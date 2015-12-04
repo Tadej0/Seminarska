@@ -2,7 +2,6 @@ import sys
 import time
 import winsound
 import os
-import requests
 
 def zvok():
     winsound.PlaySound("SystemExit", winsound.SND_ALIAS)
@@ -209,10 +208,9 @@ def shraniPosamezenClanek(stevilkaClanka,clanek,lokacija, info):
     datoteka.close()
 
 
-#   besedilo s spletne strani
-def spletnoBesedilo():
-    naslov = input("URL naslov: ")
-    f = requests.get(naslov)
-    print (f.text)
-
+def aliNizVsebujeNiz(niz, podniz):
+    if ((podniz in niz) == True):
+        return 1
+    else:
+        return 0
 
