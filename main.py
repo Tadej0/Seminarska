@@ -105,13 +105,10 @@ def bowClassifyUporaba(lokacijaUcenega, kategorija, jedro, seznam):
     prviBow = statistikaMapa+"prvo.bow"
 
 #   Istocasno ko obdelujem z BowC berem rezultate in jih shranjujem v skupno datoteko
-#   seznam: uporabi ga na anslednji nacin: ves, kateri clanki so notri. ce je trenutni clanek notri
+#   seznam: uporabi ga na anslednji nacin: ves kateri clanki so notri. ce je trenutni clanek notri
 #   potem shrani kot 1, drugace kot 0; informacije shrani v datoteko "rezultati"
 
-
-
     for dokument in seznamDokumentov:
-
 
         tmpDatoteka = tmpNaslov + dokument + "/"
         os.mkdir(tmpDatoteka)
@@ -127,7 +124,10 @@ def bowClassifyUporaba(lokacijaUcenega, kategorija, jedro, seznam):
     rezultati.close()
     knjiznica.zvok()
 
+def popraviClanek(clanek):
+    tmp = ''.join(str(e) for e in clanek)
 
+    return (tmp)
 
 def uporabaKlasifikatorjev():
     vpr = 1
@@ -141,19 +141,13 @@ def uporabaKlasifikatorjev():
         klicajKategorija = "!"+kategorija
         jedro = input("Jedro [L... linerna   P... polinomska]: ")
 
-    #   shrani seznam vseh clankov, ki so v tej kategoriji...
-
-    '''
-    Popravi, da bodo clanki brez [ ] in ' '
-    '''
-    
-    
         print("Clanki, ki vsebujejo to kategorijo: ")
         for x in seznamKategorijDrugegaBesedila:
             if(x.ime == klicajKategorija):
                 seznam = x.pojavitevVclanku
                 for clanek in seznam:
-                    print(clanek)
+                    print("neobdelan: " + clanek )
+                    clanek = popraviClanek(clanek)
                 break
 
         jedro = jedro.upper()
@@ -181,11 +175,14 @@ def obdelavaDrugegaBesedila():
     trenutniSeznamOznak = []
 
 #   Seznam dokumentov drzi imena vseh dokumentov, ki jih mora kasneje BowClassify obdelati...
+#   Ko sm tolk butast resno :/ sam se eno dodatno txt datoteko ustvarjej za info shranjevat, pol pa po sami informaciji skač
     global seznamDokumentov
     seznamDokumentov = []
     oznake = []
     print("Obdelava dokumenta v postopku....\nLahko traja nekaj sekund...")
     ucnoBesedilo = open(zbirkaBesedilPreverjanja,"r")
+    hack = korenskaMapa + "kcah/"
+    os.mkdir(hack)
     for vrsta in iter(ucnoBesedilo):
         info, clanek = knjiznica.izlusciPosameznaDela(vrsta)
         trenutniSeznamOznak, stevilkaClanka = knjiznica.infoObdelava(info)
@@ -195,7 +192,9 @@ def obdelavaDrugegaBesedila():
             tmp = oznaka(oz,stevilkaClanka)
             #   Zacnem polniti ali pa preverjam ali je ze notri nek element in inkrementiram njegovo vrednost
             oznake = knjiznica.dodajOznakoVBazo(oznake,tmp)
-        knjiznica.shraniPosamezenClanek(stevilkaClanka,clanek,razbitiClanki)
+        # hashtag:PonosnNaIdejo :P
+        knjiznica.shraniPosamezenClanek(stevilkaClanka,clanek,razbitiClanki,0)
+        knjiznica.shraniPosamezenClanek(stevilkaClanka,info,hack,1)
     ucnoBesedilo.close()
     oznake = knjiznica.sortiranje(oznake)
     knjiznica.shraniStatistiko(oznake, statistikaMapa,"Statistika_Oznak_2")
