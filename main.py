@@ -37,12 +37,15 @@ def izgradnjaDatotecneStrukture():
     global statistikaMapa
     global razbitiClanki
     global tmpRezultati
+    global kcah
     korenskaMapa = knjiznica.najdiLokacijoMape(ucnaZbirkaBesedil)
     korenskaMapa = knjiznica.ustvariNovoMapo(korenskaMapa)
     korenskaMapa+="/"
     statistikaMapa = korenskaMapa + "Statistika/"
     razbitiClanki = korenskaMapa + "Razbiti_Clanki/"
     tmpRezultati = korenskaMapa + "tmpFolder/"
+    kcah = korenskaMapa + "kcah/"
+    os.mkdir(kcah)
     os.mkdir(statistikaMapa)
     os.mkdir(razbitiClanki)
     os.mkdir(tmpRezultati)
@@ -97,7 +100,7 @@ def drugiDel():
 
 
 
-def bowClassifyUporaba(lokacijaUcenega, kategorija, jedro, seznam):
+def bowClassifyUporaba(lokacijaUcenega, kategorija, jedro):
     naslovRezultati = statistikaMapa + "Rezultati_" + kategorija + "_" + jedro + ".txt"
     rezultati = open(naslovRezultati, "a+")
     tmpNaslov = tmpRezultati + kategorija + "_" + jedro+"/"
@@ -105,11 +108,16 @@ def bowClassifyUporaba(lokacijaUcenega, kategorija, jedro, seznam):
     prviBow = statistikaMapa+"prvo.bow"
 
 #   Istocasno ko obdelujem z BowC berem rezultate in jih shranjujem v skupno datoteko
-#   seznam: uporabi ga na anslednji nacin: ves kateri clanki so notri. ce je trenutni clanek notri
-#   potem shrani kot 1, drugace kot 0; informacije shrani v datoteko "rezultati"
+#   istočasno grem skozi datoteke x_i.txt, kjer pogleddam ali je kategorija znotraj niza...
+
 
     for dokument in seznamDokumentov:
+        infoNaslov = kcah + dokument + "_i.txt"
+        infoDatoteka = open(infoNaslov,"r")
+        info = infoDatoteka.readline()
+    #   Info del o posameznem clanku prebran!
 
+        infoDatoteka.close()
         tmpDatoteka = tmpNaslov + dokument + "/"
         os.mkdir(tmpDatoteka)
         os.chdir(tmpDatoteka)
@@ -124,38 +132,21 @@ def bowClassifyUporaba(lokacijaUcenega, kategorija, jedro, seznam):
     rezultati.close()
     knjiznica.zvok()
 
-def popraviClanek(clanek):
-    tmp = ''.join(str(e) for e in clanek)
 
-    return (tmp)
 
 def uporabaKlasifikatorjev():
     vpr = 1
-    '''
-    seznamKategorijDrugegaBesedila... tu uporabim seznam vseh clankov, da vidim ali je res notri...
-    '''
     while(vpr == 1):
         print("BowClassify...")
         kategorija = input("Kategorija: ")
         kategorija = kategorija.upper()
-        klicajKategorija = "!"+kategorija
         jedro = input("Jedro [L... linerna   P... polinomska]: ")
-
-        print("Clanki, ki vsebujejo to kategorijo: ")
-        for x in seznamKategorijDrugegaBesedila:
-            if(x.ime == klicajKategorija):
-                seznam = x.pojavitevVclanku
-                for clanek in seznam:
-                    print("neobdelan: " + clanek )
-                    clanek = popraviClanek(clanek)
-                break
-
         jedro = jedro.upper()
         lokacijaUcenja = statistikaMapa +kategorija+"_"+jedro+"/prvo.bowmd"
         print(lokacijaUcenja)
         if(os.path.isfile(lokacijaUcenja)):
             print("Klasifikator in vrsta jedra sta bila izvedena... BowClassify se lahko zazene")
-            bowClassifyUporaba(lokacijaUcenja, kategorija, jedro, seznam)
+            bowClassifyUporaba(lokacijaUcenja, kategorija, jedro)
 
 
             "TU SEM OSTAL..."
@@ -181,8 +172,6 @@ def obdelavaDrugegaBesedila():
     oznake = []
     print("Obdelava dokumenta v postopku....\nLahko traja nekaj sekund...")
     ucnoBesedilo = open(zbirkaBesedilPreverjanja,"r")
-    hack = korenskaMapa + "kcah/"
-    os.mkdir(hack)
     for vrsta in iter(ucnoBesedilo):
         info, clanek = knjiznica.izlusciPosameznaDela(vrsta)
         trenutniSeznamOznak, stevilkaClanka = knjiznica.infoObdelava(info)
@@ -194,7 +183,7 @@ def obdelavaDrugegaBesedila():
             oznake = knjiznica.dodajOznakoVBazo(oznake,tmp)
         # hashtag:PonosnNaIdejo :P
         knjiznica.shraniPosamezenClanek(stevilkaClanka,clanek,razbitiClanki,0)
-        knjiznica.shraniPosamezenClanek(stevilkaClanka,info,hack,1)
+        knjiznica.shraniPosamezenClanek(stevilkaClanka,info,kcah,1)
     ucnoBesedilo.close()
     oznake = knjiznica.sortiranje(oznake)
     knjiznica.shraniStatistiko(oznake, statistikaMapa,"Statistika_Oznak_2")
@@ -206,10 +195,9 @@ def obdelavaDrugegaBesedila():
     seznamKategorijDrugegaBesedila je seznam vseh objektov, ki so sestavljeni iz imena,
     pogostosti pojavitve in seznamu dokumentov v katerem se nahajajo.
     To uporabiš kasneje pri preverjanju ali nek dokument res je označen pod neko kategorijo ali ne...
-
     '''
     uporabaKlasifikatorjev()
-    
+
 
 
 def tretjiDel():
