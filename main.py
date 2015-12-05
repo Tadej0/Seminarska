@@ -38,6 +38,7 @@ def izgradnjaDatotecneStrukture():
     global razbitiClanki
     global tmpRezultati
     global kcah
+    global konkretniClanki
     korenskaMapa = knjiznica.najdiLokacijoMape(ucnaZbirkaBesedil)
     korenskaMapa = knjiznica.ustvariNovoMapo(korenskaMapa)
     korenskaMapa+="/"
@@ -45,7 +46,9 @@ def izgradnjaDatotecneStrukture():
     razbitiClanki = korenskaMapa + "Razbiti_Clanki/"
     tmpRezultati = korenskaMapa + "tmpFolder/"
     kcah = korenskaMapa + "kcah/"
+    konkretniClanki = korenskaMapa + "konkretniClanki/"
     os.mkdir(kcah)
+    os.mkdir(konkretniClanki)
     os.mkdir(statistikaMapa)
     os.mkdir(razbitiClanki)
     os.mkdir(tmpRezultati)
@@ -128,9 +131,9 @@ def bowClassifyUporaba(lokacijaUcenega, kategorija, jedro):
         niz=tmp.readline()
         stringOdg = " "
         if (aliJe == 1):
-            stringOdg = "Vsebuje \t"
+            stringOdg = "1 \t Vsebuje \t"
         elif (aliJe == 0):
-            stringOdg = "Ne vsebuje \t"
+            stringOdg = "0 \t Ne vsebuje \t"
         string = stringOdg + dokument +":\t\t" + niz
         string = knjiznica.oskubiBesedilo(string, kategorija)
         rezultati.write(string)
@@ -242,6 +245,40 @@ def tretjiDel():
     #   preverjanje nad drugim besedilom:
     obdelavaDrugegaBesedila()
 
+def bowClassifyUporabaNadClankom(lokacijaUcenja, kategorija, jedro, imeClanka, lokacijaZunanjiClanek):
+    tmpNaslov = konkretniClanki + imeClanka + "_" + kategorija + "_" + jedro + "/"
+    os.mkdir(tmpNaslov)
+    os.chdir(tmpNaslov)
+    ukaz = BowClassify + " -ibow:" + prviBow + " -imd:" + lokacijaUcenega+" -qh:" + lokacijaZunanjiClanek
+    os.system(ukaz)
+
+
+
+def zunanjiClanek():
+    vpr = 1
+    knjiznica.izpis(N)
+    print("'Za vsako od uporabljenih štirih kategorij poiščite na internetu po eno besedilo, ki ga klasifikator za tisto kategorijo napove kot pozitiven primer.'")
+    print("Pregled zunanjih clankov. Ustvarite datoteko[format .txt], ki vsebuje besedilo clanka.")
+    print("Nato sledite navodilom...")
+    knjiznica.izpis(N)
+    while(vpr == 1):
+        lokacijaZunanjiClanek = knjiznica.lokacijaDatoteke("Lokacija clanka: ")
+        clanek = open(lokacijaZunanjiClanek,"r")
+        imeClanka = clanek.name
+        kategorija = input("Kategorija: ")
+        kategorija = kategorija.upper()
+        jedro = input("Jedro [L... linerna   P... polinomska]: ")
+        jedro = jedro.upper()
+        lokacijaUcenja = statistikaMapa +kategorija+"_"+jedro+"/prvo.bowmd"
+        if(os.path.isfile(lokacijaUcenja)):
+            print("Klasifikator in vrsta jedra sta bila izvedena... BowClassify se lahko zazene")
+            bowClassifyUporabaNadClankom(lokacijaUcenja, kategorija, jedro, imeClanka, lokacijaZunanjiClanek)
+        else:
+            print("Specificna klasifikacija ni bila izvedena!")
+
+        odg =input("Zelis ponoviti ukaz? \n0 == Ne\n1 == Da\nIzbira:")
+        if (odg != "1"):
+            break
 
 def main():
     uvod()
@@ -251,6 +288,7 @@ def main():
     prviDel()
     drugiDel()
     tretjiDel()
+    zunanjiClanek()
 
 if (__name__ == "__main__"):
     main()
