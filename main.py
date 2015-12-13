@@ -10,6 +10,23 @@ def uvod():
     knjiznica.datum()
     knjiznica.izpis(N)
 
+def posameznaLokacija(ime, lokacija):
+    print("{}:\t{}".format(ime, lokacija))
+
+def izpisDatotecneStrukture():
+    posameznaLokacija("Txt2Bow",Txt2Bow)
+    posameznaLokacija("BowKMeans",BowKMeans)
+    posameznaLokacija("BowTrainBinSVM",BowTrainBinSVM)
+    posameznaLokacija("BowClassify",BowClassify)
+    posameznaLokacija("Zbirka besedil za ucenje",ucnaZbirkaBesedil)
+    posameznaLokacija("Zbirka besedila za preverjanje",zbirkaBesedilPreverjanja)
+    posameznaLokacija("Korenska mapa",korenskaMapa)
+    posameznaLokacija("Mapa z rezultati",statistikaMapa)
+    posameznaLokacija("Razbiti clanki",razbitiClanki)
+    posameznaLokacija("Tmp rezultati",tmpRezultati)
+    posameznaLokacija("Konkretni clanki",konkretniClanki)
+
+
 def lokacijeProgramov():
     global Txt2Bow
     global BowKMeans
@@ -156,12 +173,6 @@ def uporabaKlasifikatorjev():
         if(os.path.isfile(lokacijaUcenja)):
             print("Klasifikator in vrsta jedra sta bila izvedena... BowClassify se lahko zazene")
             bowClassifyUporaba(lokacijaUcenja, kategorija, jedro)
-
-
-            "TU SEM OSTAL..."
-
-
-
         else:
             print("Specificna klasifikacija ni bila izvedena!")
 
@@ -245,11 +256,14 @@ def tretjiDel():
     #   preverjanje nad drugim besedilom:
     obdelavaDrugegaBesedila()
 
+
+# Tukaj vse popravi!!!
+
 def bowClassifyUporabaNadClankom(lokacijaUcenja, kategorija, jedro, imeClanka, lokacijaZunanjiClanek):
     tmpNaslov = konkretniClanki + imeClanka + "_" + kategorija + "_" + jedro + "/"
     os.mkdir(tmpNaslov)
     os.chdir(tmpNaslov)
-    ukaz = BowClassify + " -ibow:" + prviBow + " -imd:" + lokacijaUcenega+" -qh:" + lokacijaZunanjiClanek
+    ukaz = BowClassify + " -ibow:" + statistikaMapa + "prvo.bow -imd:" + lokacijaUcenja+" -qh:" + lokacijaZunanjiClanek
     os.system(ukaz)
 
 
@@ -263,8 +277,7 @@ def zunanjiClanek():
     knjiznica.izpis(N)
     while(vpr == 1):
         lokacijaZunanjiClanek = knjiznica.lokacijaDatoteke("Lokacija clanka: ")
-        clanek = open(lokacijaZunanjiClanek,"r")
-        imeClanka = clanek.name
+        imeClanka = input("Poimenovanje clanka: ")
         kategorija = input("Kategorija: ")
         kategorija = kategorija.upper()
         jedro = input("Jedro [L... linerna   P... polinomska]: ")
@@ -284,6 +297,7 @@ def main():
     uvod()
     lokacijeProgramov()
     izgradnjaDatotecneStrukture()
+    izpisDatotecneStrukture()
     obdelavaPrvegaBesedila()
     prviDel()
     drugiDel()
