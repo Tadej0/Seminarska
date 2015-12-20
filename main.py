@@ -34,19 +34,19 @@ def lokacijeProgramov():
     global BowClassify
     global ucnaZbirkaBesedil
     global zbirkaBesedilPreverjanja
-    #Txt2Bow = "D:/Txt2Bow.exe"
-    #BowKMeans = "D:/BowKMeans.exe"
-    #BowTrainBinSVM = "D:/BowTrainBinSVM.exe"
-    #BowClassify = "D:/BowClassify.exe"
-    #ucnaZbirkaBesedil = "D:/1.txt"
-    #zbirkaBesedilPreverjanja = "D:/2.txt"
+    Txt2Bow = "D:/Txt2Bow.exe"
+    BowKMeans = "D:/BowKMeans.exe"
+    BowTrainBinSVM = "D:/BowTrainBinSVM.exe"
+    BowClassify = "D:/BowClassify.exe"
+    ucnaZbirkaBesedil = "D:/1.txt"
+    zbirkaBesedilPreverjanja = "D:/2.txt"
 
-    Txt2Bow = knjiznica.lokacijaDatoteke("Lokacija programa Txt2Bow: ")
-    BowKMeans = knjiznica.lokacijaDatoteke("Lokacija programa BowKMeans: ")
-    BowTrainBinSVM = knjiznica.lokacijaDatoteke("Lokacija programa BowTrainBinSVM: ")
-    BowClassify = knjiznica.lokacijaDatoteke("Lokacija programa BowClassify: ")
-    ucnaZbirkaBesedil = knjiznica.lokacijaDatoteke("Lokacija besedilne datoteke za ucenje: ")
-    zbirkaBesedilPreverjanja = knjiznica.lokacijaDatoteke("Lokacija besedilne datoteke za prevejanje: ")
+    #Txt2Bow = knjiznica.lokacijaDatoteke("Lokacija programa Txt2Bow: ")
+    #BowKMeans = knjiznica.lokacijaDatoteke("Lokacija programa BowKMeans: ")
+    #BowTrainBinSVM = knjiznica.lokacijaDatoteke("Lokacija programa BowTrainBinSVM: ")
+    #BowClassify = knjiznica.lokacijaDatoteke("Lokacija programa BowClassify: ")
+    #ucnaZbirkaBesedil = knjiznica.lokacijaDatoteke("Lokacija besedilne datoteke za ucenje: ")
+    #zbirkaBesedilPreverjanja = knjiznica.lokacijaDatoteke("Lokacija besedilne datoteke za prevejanje: ")
 
 
 def izgradnjaDatotecneStrukture():
@@ -148,7 +148,7 @@ def bowClassifyUporaba(lokacijaUcenega, kategorija, jedro):
         niz=tmp.readline()
         stringOdg = " "
         if (aliJe == 1):
-            stringOdg = "1 \t Vsebuje \t"
+            stringOdg = "1 \t\t Vsebuje \t"
         elif (aliJe == 0):
             stringOdg = "0 \t Ne vsebuje \t"
         string = stringOdg + dokument +":\t\t" + niz
