@@ -1,0 +1,2000 @@
+0 	 Ne vsebuje 	18000	 -0.554 
+0 	 Ne vsebuje 	18001	 -0.828 
+0 	 Ne vsebuje 	18002	 -0.989 
+0 	 Ne vsebuje 	18003	 -0.660 
+0 	 Ne vsebuje 	18004	 -0.919 
+0 	 Ne vsebuje 	18005	 -0.864 
+0 	 Ne vsebuje 	18006	 -0.834 
+0 	 Ne vsebuje 	18007	 0.040 
+0 	 Ne vsebuje 	18008	 -0.159 
+0 	 Ne vsebuje 	18009	 -0.785 
+0 	 Ne vsebuje 	18010	 -0.088 
+0 	 Ne vsebuje 	18011	 -0.296 
+0 	 Ne vsebuje 	18012	 0.042 
+0 	 Ne vsebuje 	18013	 -0.405 
+0 	 Ne vsebuje 	18014	 -0.878 
+0 	 Ne vsebuje 	18015	 -0.737 
+0 	 Ne vsebuje 	18016	 -0.942 
+0 	 Ne vsebuje 	18017	 -0.776 
+0 	 Ne vsebuje 	18018	 -0.667 
+0 	 Ne vsebuje 	18019	 -0.759 
+0 	 Ne vsebuje 	18020	 0.007 
+0 	 Ne vsebuje 	18021	 -0.101 
+0 	 Ne vsebuje 	18022	 -0.906 
+0 	 Ne vsebuje 	18023	 -0.485 
+0 	 Ne vsebuje 	18024	 -0.769 
+0 	 Ne vsebuje 	18025	 -0.864 
+0 	 Ne vsebuje 	18026	 -0.749 
+0 	 Ne vsebuje 	18027	 -0.777 
+0 	 Ne vsebuje 	18028	 -0.875 
+0 	 Ne vsebuje 	18029	 -0.406 
+0 	 Ne vsebuje 	18030	 -0.703 
+0 	 Ne vsebuje 	18031	 -0.561 
+0 	 Ne vsebuje 	18032	 -0.541 
+0 	 Ne vsebuje 	18033	 -0.948 
+0 	 Ne vsebuje 	18034	 -0.907 
+0 	 Ne vsebuje 	18035	 -0.901 
+0 	 Ne vsebuje 	18036	 -0.968 
+0 	 Ne vsebuje 	18037	 -0.998 
+0 	 Ne vsebuje 	18038	 -1.093 
+0 	 Ne vsebuje 	18039	 -1.206 
+0 	 Ne vsebuje 	18040	 -0.440 
+0 	 Ne vsebuje 	18041	 -0.653 
+0 	 Ne vsebuje 	18042	 -1.088 
+0 	 Ne vsebuje 	18043	 -0.758 
+0 	 Ne vsebuje 	18044	 -1.083 
+0 	 Ne vsebuje 	18045	 -0.882 
+0 	 Ne vsebuje 	18046	 -0.959 
+0 	 Ne vsebuje 	18047	 -1.036 
+0 	 Ne vsebuje 	18048	 -1.084 
+0 	 Ne vsebuje 	18049	 -0.903 
+0 	 Ne vsebuje 	18050	 -0.756 
+0 	 Ne vsebuje 	18051	 -1.192 
+0 	 Ne vsebuje 	18052	 -0.986 
+0 	 Ne vsebuje 	18053	 -0.750 
+0 	 Ne vsebuje 	18054	 -0.951 
+0 	 Ne vsebuje 	18055	 -0.710 
+0 	 Ne vsebuje 	18056	 -1.017 
+0 	 Ne vsebuje 	18057	 -0.594 
+0 	 Ne vsebuje 	18058	 -0.961 
+0 	 Ne vsebuje 	18059	 -0.741 
+0 	 Ne vsebuje 	18060	 -0.730 
+0 	 Ne vsebuje 	18061	 -1.084 
+0 	 Ne vsebuje 	18062	 -0.671 
+0 	 Ne vsebuje 	18063	 -1.001 
+0 	 Ne vsebuje 	18064	 -1.139 
+0 	 Ne vsebuje 	18065	 -0.316 
+0 	 Ne vsebuje 	18066	 -0.499 
+0 	 Ne vsebuje 	18067	 -0.848 
+0 	 Ne vsebuje 	18068	 -0.826 
+0 	 Ne vsebuje 	18069	 -1.157 
+0 	 Ne vsebuje 	18070	 -1.055 
+0 	 Ne vsebuje 	18071	 -0.987 
+0 	 Ne vsebuje 	18072	 -0.942 
+0 	 Ne vsebuje 	18073	 -1.104 
+0 	 Ne vsebuje 	18074	 -1.110 
+0 	 Ne vsebuje 	18075	 -1.080 
+0 	 Ne vsebuje 	18076	 -0.842 
+0 	 Ne vsebuje 	18077	 -0.998 
+0 	 Ne vsebuje 	18078	 -1.097 
+0 	 Ne vsebuje 	18079	 -0.957 
+0 	 Ne vsebuje 	18080	 -1.023 
+0 	 Ne vsebuje 	18081	 -0.357 
+0 	 Ne vsebuje 	18082	 -0.357 
+0 	 Ne vsebuje 	18083	 -0.449 
+0 	 Ne vsebuje 	18084	 -0.514 
+0 	 Ne vsebuje 	18085	 -1.023 
+0 	 Ne vsebuje 	18086	 -1.104 
+0 	 Ne vsebuje 	18087	 -1.134 
+0 	 Ne vsebuje 	18088	 -1.076 
+0 	 Ne vsebuje 	18089	 -0.812 
+0 	 Ne vsebuje 	18090	 -0.760 
+0 	 Ne vsebuje 	18091	 -1.013 
+0 	 Ne vsebuje 	18092	 -1.118 
+0 	 Ne vsebuje 	18093	 -1.007 
+0 	 Ne vsebuje 	18094	 -1.095 
+0 	 Ne vsebuje 	18095	 -0.752 
+0 	 Ne vsebuje 	18096	 -0.384 
+0 	 Ne vsebuje 	18097	 -0.764 
+0 	 Ne vsebuje 	18098	 -0.934 
+0 	 Ne vsebuje 	18099	 -0.760 
+0 	 Ne vsebuje 	18100	 -1.047 
+0 	 Ne vsebuje 	18101	 -0.545 
+0 	 Ne vsebuje 	18102	 -1.037 
+0 	 Ne vsebuje 	18103	 -1.035 
+0 	 Ne vsebuje 	18104	 -0.764 
+0 	 Ne vsebuje 	18105	 -1.021 
+0 	 Ne vsebuje 	18106	 -0.948 
+0 	 Ne vsebuje 	18107	 -0.841 
+0 	 Ne vsebuje 	18108	 -0.832 
+0 	 Ne vsebuje 	18109	 -0.571 
+0 	 Ne vsebuje 	18110	 -0.436 
+0 	 Ne vsebuje 	18111	 -0.743 
+0 	 Ne vsebuje 	18112	 -0.626 
+0 	 Ne vsebuje 	18113	 -0.753 
+0 	 Ne vsebuje 	18114	 -0.831 
+0 	 Ne vsebuje 	18115	 -0.715 
+0 	 Ne vsebuje 	18116	 -0.259 
+0 	 Ne vsebuje 	18117	 -0.362 
+0 	 Ne vsebuje 	18118	 -0.042 
+0 	 Ne vsebuje 	18119	 -0.365 
+0 	 Ne vsebuje 	18120	 -0.843 
+0 	 Ne vsebuje 	18121	 -0.657 
+0 	 Ne vsebuje 	18122	 -0.818 
+0 	 Ne vsebuje 	18123	 -0.821 
+0 	 Ne vsebuje 	18124	 -0.608 
+0 	 Ne vsebuje 	18125	 -0.722 
+0 	 Ne vsebuje 	18126	 -1.119 
+0 	 Ne vsebuje 	18127	 0.559 
+0 	 Ne vsebuje 	18128	 -0.487 
+0 	 Ne vsebuje 	18129	 -0.043 
+0 	 Ne vsebuje 	18130	 -0.359 
+0 	 Ne vsebuje 	18131	 -0.344 
+0 	 Ne vsebuje 	18132	 -0.153 
+0 	 Ne vsebuje 	18133	 -0.080 
+0 	 Ne vsebuje 	18134	 -0.623 
+0 	 Ne vsebuje 	18135	 -0.676 
+0 	 Ne vsebuje 	18136	 -0.924 
+0 	 Ne vsebuje 	18137	 -1.007 
+0 	 Ne vsebuje 	18138	 -0.902 
+0 	 Ne vsebuje 	18139	 -0.482 
+0 	 Ne vsebuje 	18140	 -0.704 
+0 	 Ne vsebuje 	18141	 -0.546 
+0 	 Ne vsebuje 	18142	 -0.561 
+0 	 Ne vsebuje 	18143	 -0.608 
+0 	 Ne vsebuje 	18144	 -0.733 
+0 	 Ne vsebuje 	18145	 -0.639 
+0 	 Ne vsebuje 	18146	 -0.413 
+0 	 Ne vsebuje 	18147	 -0.554 
+0 	 Ne vsebuje 	18148	 -0.695 
+0 	 Ne vsebuje 	18149	 -1.109 
+0 	 Ne vsebuje 	18150	 -0.769 
+0 	 Ne vsebuje 	18151	 -0.641 
+0 	 Ne vsebuje 	18152	 -0.604 
+0 	 Ne vsebuje 	18153	 -0.521 
+0 	 Ne vsebuje 	18154	 -0.455 
+0 	 Ne vsebuje 	18155	 -1.087 
+0 	 Ne vsebuje 	18156	 -1.471 
+0 	 Ne vsebuje 	18157	 -0.826 
+0 	 Ne vsebuje 	18158	 -0.791 
+0 	 Ne vsebuje 	18159	 -0.933 
+0 	 Ne vsebuje 	18160	 -1.106 
+0 	 Ne vsebuje 	18161	 -0.880 
+0 	 Ne vsebuje 	18162	 -0.765 
+0 	 Ne vsebuje 	18163	 -1.185 
+0 	 Ne vsebuje 	18164	 -1.012 
+0 	 Ne vsebuje 	18165	 -1.175 
+0 	 Ne vsebuje 	18166	 -1.076 
+0 	 Ne vsebuje 	18167	 -0.772 
+0 	 Ne vsebuje 	18168	 -0.769 
+0 	 Ne vsebuje 	18169	 0.721 
+0 	 Ne vsebuje 	18170	 0.809 
+0 	 Ne vsebuje 	18171	 -0.532 
+0 	 Ne vsebuje 	18172	 -0.310 
+0 	 Ne vsebuje 	18173	 -0.519 
+0 	 Ne vsebuje 	18174	 -0.819 
+1 		 Vsebuje 	18175	 -0.240 
+0 	 Ne vsebuje 	18176	 0.225 
+0 	 Ne vsebuje 	18177	 0.204 
+0 	 Ne vsebuje 	18178	 -0.770 
+0 	 Ne vsebuje 	18179	 -0.780 
+0 	 Ne vsebuje 	18180	 0.310 
+0 	 Ne vsebuje 	18181	 -0.285 
+0 	 Ne vsebuje 	18182	 -0.906 
+1 		 Vsebuje 	18183	 1.063 
+0 	 Ne vsebuje 	18184	 -0.006 
+0 	 Ne vsebuje 	18185	 0.160 
+0 	 Ne vsebuje 	18186	 -0.318 
+1 		 Vsebuje 	18187	 0.347 
+0 	 Ne vsebuje 	18188	 -0.195 
+0 	 Ne vsebuje 	18189	 -0.619 
+0 	 Ne vsebuje 	18190	 -0.687 
+0 	 Ne vsebuje 	18191	 -0.841 
+1 		 Vsebuje 	18192	 0.375 
+0 	 Ne vsebuje 	18193	 -0.557 
+0 	 Ne vsebuje 	18194	 0.007 
+0 	 Ne vsebuje 	18195	 -0.485 
+0 	 Ne vsebuje 	18196	 -0.721 
+0 	 Ne vsebuje 	18197	 -1.377 
+0 	 Ne vsebuje 	18198	 -1.160 
+0 	 Ne vsebuje 	18199	 -0.805 
+0 	 Ne vsebuje 	18200	 -0.940 
+0 	 Ne vsebuje 	18201	 -0.770 
+0 	 Ne vsebuje 	18202	 0.685 
+1 		 Vsebuje 	18203	 1.101 
+0 	 Ne vsebuje 	18204	 -0.931 
+0 	 Ne vsebuje 	18205	 -0.450 
+0 	 Ne vsebuje 	18206	 0.075 
+0 	 Ne vsebuje 	18207	 -0.381 
+0 	 Ne vsebuje 	18208	 -1.001 
+0 	 Ne vsebuje 	18209	 -0.499 
+0 	 Ne vsebuje 	18210	 -0.198 
+0 	 Ne vsebuje 	18211	 -0.627 
+0 	 Ne vsebuje 	18212	 0.384 
+0 	 Ne vsebuje 	18213	 -0.833 
+0 	 Ne vsebuje 	18214	 -0.737 
+1 		 Vsebuje 	18215	 0.470 
+0 	 Ne vsebuje 	18216	 -0.701 
+0 	 Ne vsebuje 	18217	 -0.722 
+0 	 Ne vsebuje 	18218	 0.254 
+0 	 Ne vsebuje 	18219	 1.049 
+1 		 Vsebuje 	18220	 0.777 
+1 		 Vsebuje 	18221	 0.412 
+1 		 Vsebuje 	18222	 0.714 
+1 		 Vsebuje 	18223	 0.779 
+0 	 Ne vsebuje 	18224	 -0.097 
+0 	 Ne vsebuje 	18225	 -0.484 
+0 	 Ne vsebuje 	18226	 -0.778 
+0 	 Ne vsebuje 	18227	 -0.498 
+0 	 Ne vsebuje 	18228	 -0.051 
+1 		 Vsebuje 	18229	 0.958 
+0 	 Ne vsebuje 	18230	 -0.888 
+0 	 Ne vsebuje 	18231	 -0.716 
+0 	 Ne vsebuje 	18232	 -0.526 
+0 	 Ne vsebuje 	18233	 -0.589 
+0 	 Ne vsebuje 	18234	 -0.139 
+0 	 Ne vsebuje 	18235	 -0.175 
+0 	 Ne vsebuje 	18236	 -0.117 
+0 	 Ne vsebuje 	18237	 -0.410 
+1 		 Vsebuje 	18238	 0.298 
+1 		 Vsebuje 	18239	 0.272 
+0 	 Ne vsebuje 	18240	 -0.936 
+0 	 Ne vsebuje 	18241	 -0.541 
+0 	 Ne vsebuje 	18242	 -0.251 
+1 		 Vsebuje 	18243	 0.283 
+1 		 Vsebuje 	18244	 0.839 
+0 	 Ne vsebuje 	18245	 -0.680 
+0 	 Ne vsebuje 	18246	 -1.033 
+0 	 Ne vsebuje 	18247	 -0.805 
+0 	 Ne vsebuje 	18248	 -0.301 
+0 	 Ne vsebuje 	18249	 0.542 
+0 	 Ne vsebuje 	18250	 -1.027 
+0 	 Ne vsebuje 	18251	 -0.657 
+0 	 Ne vsebuje 	18252	 -0.530 
+1 		 Vsebuje 	18253	 0.298 
+0 	 Ne vsebuje 	18254	 -0.769 
+1 		 Vsebuje 	18255	 0.337 
+0 	 Ne vsebuje 	18256	 -0.318 
+0 	 Ne vsebuje 	18257	 -0.354 
+0 	 Ne vsebuje 	18258	 -0.947 
+0 	 Ne vsebuje 	18259	 -0.696 
+1 		 Vsebuje 	18260	 -0.117 
+0 	 Ne vsebuje 	18261	 -0.208 
+0 	 Ne vsebuje 	18262	 -0.220 
+0 	 Ne vsebuje 	18263	 -0.583 
+0 	 Ne vsebuje 	18264	 -0.367 
+0 	 Ne vsebuje 	18265	 -0.647 
+0 	 Ne vsebuje 	18266	 -0.055 
+0 	 Ne vsebuje 	18267	 -0.645 
+0 	 Ne vsebuje 	18268	 -0.627 
+0 	 Ne vsebuje 	18269	 -0.810 
+0 	 Ne vsebuje 	18270	 -0.712 
+0 	 Ne vsebuje 	18271	 -0.318 
+0 	 Ne vsebuje 	18272	 -0.514 
+0 	 Ne vsebuje 	18273	 -0.291 
+0 	 Ne vsebuje 	18274	 -0.523 
+0 	 Ne vsebuje 	18275	 0.465 
+0 	 Ne vsebuje 	18276	 -0.966 
+0 	 Ne vsebuje 	18277	 -0.776 
+0 	 Ne vsebuje 	18278	 -0.615 
+0 	 Ne vsebuje 	18279	 -0.559 
+0 	 Ne vsebuje 	18280	 -0.177 
+0 	 Ne vsebuje 	18281	 -0.847 
+0 	 Ne vsebuje 	18282	 -0.978 
+0 	 Ne vsebuje 	18283	 -0.766 
+0 	 Ne vsebuje 	18284	 -0.713 
+0 	 Ne vsebuje 	18285	 -0.006 
+0 	 Ne vsebuje 	18286	 -0.758 
+0 	 Ne vsebuje 	18287	 -1.089 
+0 	 Ne vsebuje 	18288	 -1.093 
+0 	 Ne vsebuje 	18289	 -1.471 
+0 	 Ne vsebuje 	18290	 -0.726 
+0 	 Ne vsebuje 	18291	 -0.389 
+0 	 Ne vsebuje 	18292	 -0.683 
+0 	 Ne vsebuje 	18293	 -1.185 
+0 	 Ne vsebuje 	18294	 -0.650 
+1 		 Vsebuje 	18295	 0.590 
+0 	 Ne vsebuje 	18296	 -1.168 
+0 	 Ne vsebuje 	18297	 -0.416 
+0 	 Ne vsebuje 	18298	 -0.163 
+0 	 Ne vsebuje 	18299	 0.580 
+0 	 Ne vsebuje 	18300	 -0.722 
+0 	 Ne vsebuje 	18301	 -0.799 
+0 	 Ne vsebuje 	18302	 -0.817 
+0 	 Ne vsebuje 	18303	 -0.727 
+0 	 Ne vsebuje 	18304	 -0.817 
+0 	 Ne vsebuje 	18305	 -0.879 
+0 	 Ne vsebuje 	18306	 -0.837 
+0 	 Ne vsebuje 	18307	 -1.048 
+0 	 Ne vsebuje 	18308	 0.301 
+0 	 Ne vsebuje 	18309	 -0.596 
+0 	 Ne vsebuje 	18310	 -0.520 
+1 		 Vsebuje 	18311	 -0.486 
+0 	 Ne vsebuje 	18312	 -0.598 
+0 	 Ne vsebuje 	18313	 -0.762 
+0 	 Ne vsebuje 	18314	 -0.745 
+0 	 Ne vsebuje 	18315	 -0.663 
+0 	 Ne vsebuje 	18316	 -0.628 
+0 	 Ne vsebuje 	18317	 -0.850 
+0 	 Ne vsebuje 	18318	 -0.244 
+0 	 Ne vsebuje 	18319	 -0.991 
+0 	 Ne vsebuje 	18320	 -0.336 
+1 		 Vsebuje 	18321	 0.982 
+0 	 Ne vsebuje 	18322	 -0.591 
+0 	 Ne vsebuje 	18323	 -0.709 
+0 	 Ne vsebuje 	18324	 -0.758 
+0 	 Ne vsebuje 	18325	 -0.695 
+1 		 Vsebuje 	18326	 0.833 
+0 	 Ne vsebuje 	18327	 -1.161 
+0 	 Ne vsebuje 	18328	 -0.523 
+0 	 Ne vsebuje 	18329	 -0.586 
+0 	 Ne vsebuje 	18330	 -0.680 
+1 		 Vsebuje 	18331	 0.505 
+0 	 Ne vsebuje 	18332	 -0.754 
+0 	 Ne vsebuje 	18333	 -0.857 
+0 	 Ne vsebuje 	18334	 -0.751 
+0 	 Ne vsebuje 	18335	 -0.784 
+0 	 Ne vsebuje 	18336	 -1.373 
+0 	 Ne vsebuje 	18337	 -0.794 
+0 	 Ne vsebuje 	18338	 -1.394 
+0 	 Ne vsebuje 	18339	 -0.031 
+1 		 Vsebuje 	18340	 -0.076 
+0 	 Ne vsebuje 	18341	 -0.718 
+0 	 Ne vsebuje 	18342	 -0.909 
+0 	 Ne vsebuje 	18343	 -1.190 
+0 	 Ne vsebuje 	18344	 -0.771 
+0 	 Ne vsebuje 	18345	 -0.839 
+0 	 Ne vsebuje 	18346	 0.139 
+0 	 Ne vsebuje 	18347	 -1.178 
+0 	 Ne vsebuje 	18348	 -0.203 
+0 	 Ne vsebuje 	18349	 -0.610 
+1 		 Vsebuje 	18350	 -0.604 
+0 	 Ne vsebuje 	18351	 -0.790 
+0 	 Ne vsebuje 	18352	 -0.556 
+1 		 Vsebuje 	18353	 0.224 
+0 	 Ne vsebuje 	18354	 -0.709 
+0 	 Ne vsebuje 	18355	 -0.847 
+0 	 Ne vsebuje 	18356	 -1.012 
+1 		 Vsebuje 	18357	 0.582 
+1 		 Vsebuje 	18358	 0.566 
+0 	 Ne vsebuje 	18359	 -0.553 
+0 	 Ne vsebuje 	18360	 -0.835 
+1 		 Vsebuje 	18361	 0.839 
+0 	 Ne vsebuje 	18362	 -0.897 
+0 	 Ne vsebuje 	18363	 -0.791 
+0 	 Ne vsebuje 	18364	 -0.437 
+0 	 Ne vsebuje 	18365	 -0.751 
+0 	 Ne vsebuje 	18366	 -0.664 
+0 	 Ne vsebuje 	18367	 -0.174 
+1 		 Vsebuje 	18368	 0.415 
+1 		 Vsebuje 	18369	 -0.192 
+0 	 Ne vsebuje 	18370	 -0.780 
+1 		 Vsebuje 	18371	 -0.368 
+0 	 Ne vsebuje 	18372	 0.571 
+0 	 Ne vsebuje 	18373	 -0.835 
+1 		 Vsebuje 	18374	 -0.196 
+0 	 Ne vsebuje 	18375	 -0.474 
+0 	 Ne vsebuje 	18376	 -0.669 
+0 	 Ne vsebuje 	18377	 -0.509 
+0 	 Ne vsebuje 	18378	 -0.692 
+0 	 Ne vsebuje 	18379	 -1.169 
+0 	 Ne vsebuje 	18380	 -0.814 
+0 	 Ne vsebuje 	18381	 -0.529 
+0 	 Ne vsebuje 	18382	 -0.664 
+0 	 Ne vsebuje 	18383	 -0.820 
+1 		 Vsebuje 	18384	 -0.039 
+0 	 Ne vsebuje 	18385	 -0.209 
+0 	 Ne vsebuje 	18386	 0.910 
+0 	 Ne vsebuje 	18387	 -0.763 
+0 	 Ne vsebuje 	18388	 -0.644 
+1 		 Vsebuje 	18389	 0.694 
+0 	 Ne vsebuje 	18390	 0.127 
+0 	 Ne vsebuje 	18391	 -0.436 
+0 	 Ne vsebuje 	18392	 0.408 
+0 	 Ne vsebuje 	18393	 -0.774 
+0 	 Ne vsebuje 	18394	 -0.680 
+0 	 Ne vsebuje 	18395	 0.867 
+0 	 Ne vsebuje 	18396	 -1.269 
+0 	 Ne vsebuje 	18397	 -0.462 
+0 	 Ne vsebuje 	18398	 -0.987 
+0 	 Ne vsebuje 	18399	 -0.663 
+0 	 Ne vsebuje 	18400	 -0.769 
+1 		 Vsebuje 	18401	 -0.479 
+0 	 Ne vsebuje 	18402	 -0.868 
+0 	 Ne vsebuje 	18403	 -0.645 
+0 	 Ne vsebuje 	18404	 -0.942 
+0 	 Ne vsebuje 	18405	 -0.763 
+0 	 Ne vsebuje 	18406	 -0.519 
+0 	 Ne vsebuje 	18407	 -0.480 
+0 	 Ne vsebuje 	18408	 0.185 
+0 	 Ne vsebuje 	18409	 -0.813 
+0 	 Ne vsebuje 	18410	 -0.664 
+1 		 Vsebuje 	18411	 0.104 
+0 	 Ne vsebuje 	18412	 -0.632 
+0 	 Ne vsebuje 	18413	 0.265 
+0 	 Ne vsebuje 	18414	 -0.581 
+0 	 Ne vsebuje 	18415	 -0.829 
+0 	 Ne vsebuje 	18416	 -0.373 
+0 	 Ne vsebuje 	18417	 -0.704 
+0 	 Ne vsebuje 	18418	 -0.701 
+0 	 Ne vsebuje 	18419	 1.132 
+1 		 Vsebuje 	18420	 0.721 
+0 	 Ne vsebuje 	18421	 -0.004 
+1 		 Vsebuje 	18422	 0.178 
+1 		 Vsebuje 	18423	 0.933 
+0 	 Ne vsebuje 	18424	 0.157 
+0 	 Ne vsebuje 	18425	 0.104 
+1 		 Vsebuje 	18426	 -0.104 
+0 	 Ne vsebuje 	18427	 -0.868 
+1 		 Vsebuje 	18428	 0.425 
+0 	 Ne vsebuje 	18429	 -0.656 
+0 	 Ne vsebuje 	18430	 -0.668 
+0 	 Ne vsebuje 	18431	 -0.864 
+1 		 Vsebuje 	18432	 0.710 
+0 	 Ne vsebuje 	18433	 -0.796 
+0 	 Ne vsebuje 	18434	 -0.632 
+0 	 Ne vsebuje 	18435	 -0.069 
+0 	 Ne vsebuje 	18436	 -0.289 
+0 	 Ne vsebuje 	18437	 0.119 
+0 	 Ne vsebuje 	18438	 -0.998 
+0 	 Ne vsebuje 	18439	 -1.012 
+0 	 Ne vsebuje 	18440	 -1.048 
+0 	 Ne vsebuje 	18441	 0.535 
+0 	 Ne vsebuje 	18442	 -0.507 
+1 		 Vsebuje 	18443	 -0.769 
+0 	 Ne vsebuje 	18444	 -1.032 
+0 	 Ne vsebuje 	18445	 0.098 
+0 	 Ne vsebuje 	18446	 -0.584 
+0 	 Ne vsebuje 	18447	 -0.537 
+1 		 Vsebuje 	18448	 0.210 
+0 	 Ne vsebuje 	18449	 -0.910 
+0 	 Ne vsebuje 	18450	 0.027 
+0 	 Ne vsebuje 	18451	 -0.438 
+0 	 Ne vsebuje 	18452	 -0.507 
+0 	 Ne vsebuje 	18453	 -0.381 
+0 	 Ne vsebuje 	18454	 -0.678 
+0 	 Ne vsebuje 	18455	 -0.967 
+1 		 Vsebuje 	18456	 0.188 
+0 	 Ne vsebuje 	18457	 -0.410 
+0 	 Ne vsebuje 	18458	 0.174 
+0 	 Ne vsebuje 	18459	 -0.478 
+0 	 Ne vsebuje 	18460	 0.096 
+0 	 Ne vsebuje 	18461	 -0.540 
+0 	 Ne vsebuje 	18462	 0.023 
+0 	 Ne vsebuje 	18463	 -0.562 
+0 	 Ne vsebuje 	18464	 -0.470 
+0 	 Ne vsebuje 	18465	 -0.666 
+1 		 Vsebuje 	18466	 0.017 
+0 	 Ne vsebuje 	18467	 -0.906 
+0 	 Ne vsebuje 	18468	 -0.249 
+0 	 Ne vsebuje 	18469	 -0.577 
+1 		 Vsebuje 	18470	 -0.436 
+0 	 Ne vsebuje 	18471	 -0.595 
+0 	 Ne vsebuje 	18472	 -0.695 
+0 	 Ne vsebuje 	18473	 -0.875 
+1 		 Vsebuje 	18474	 -0.400 
+0 	 Ne vsebuje 	18475	 -0.724 
+0 	 Ne vsebuje 	18476	 -0.416 
+0 	 Ne vsebuje 	18477	 -0.953 
+0 	 Ne vsebuje 	18478	 -0.866 
+0 	 Ne vsebuje 	18479	 -0.595 
+0 	 Ne vsebuje 	18480	 -0.792 
+0 	 Ne vsebuje 	18481	 -0.481 
+0 	 Ne vsebuje 	18482	 -0.559 
+0 	 Ne vsebuje 	18483	 0.376 
+0 	 Ne vsebuje 	18484	 -0.384 
+0 	 Ne vsebuje 	18485	 -1.035 
+0 	 Ne vsebuje 	18486	 -0.396 
+0 	 Ne vsebuje 	18487	 0.452 
+0 	 Ne vsebuje 	18488	 -0.745 
+0 	 Ne vsebuje 	18489	 -0.957 
+0 	 Ne vsebuje 	18490	 -0.713 
+1 		 Vsebuje 	18491	 0.275 
+0 	 Ne vsebuje 	18492	 -0.444 
+0 	 Ne vsebuje 	18493	 -0.177 
+0 	 Ne vsebuje 	18494	 0.193 
+0 	 Ne vsebuje 	18495	 -1.124 
+1 		 Vsebuje 	18496	 0.477 
+0 	 Ne vsebuje 	18497	 -0.475 
+0 	 Ne vsebuje 	18498	 -0.399 
+0 	 Ne vsebuje 	18499	 -0.240 
+0 	 Ne vsebuje 	18500	 -0.461 
+0 	 Ne vsebuje 	18501	 -0.244 
+0 	 Ne vsebuje 	18502	 -0.231 
+0 	 Ne vsebuje 	18503	 -0.299 
+0 	 Ne vsebuje 	18504	 -0.415 
+0 	 Ne vsebuje 	18505	 -0.709 
+0 	 Ne vsebuje 	18506	 -0.872 
+0 	 Ne vsebuje 	18507	 -0.849 
+1 		 Vsebuje 	18508	 -0.067 
+0 	 Ne vsebuje 	18509	 1.098 
+0 	 Ne vsebuje 	18510	 1.214 
+0 	 Ne vsebuje 	18511	 -0.910 
+0 	 Ne vsebuje 	18512	 -0.863 
+0 	 Ne vsebuje 	18513	 -1.003 
+0 	 Ne vsebuje 	18514	 -0.929 
+0 	 Ne vsebuje 	18515	 -1.010 
+0 	 Ne vsebuje 	18516	 -0.897 
+0 	 Ne vsebuje 	18517	 -0.372 
+0 	 Ne vsebuje 	18518	 -0.872 
+0 	 Ne vsebuje 	18519	 -0.755 
+0 	 Ne vsebuje 	18520	 -0.397 
+0 	 Ne vsebuje 	18521	 -0.475 
+0 	 Ne vsebuje 	18522	 -1.110 
+0 	 Ne vsebuje 	18523	 -0.928 
+0 	 Ne vsebuje 	18524	 -0.099 
+0 	 Ne vsebuje 	18525	 -0.711 
+0 	 Ne vsebuje 	18526	 -0.273 
+0 	 Ne vsebuje 	18527	 -0.815 
+0 	 Ne vsebuje 	18528	 -0.338 
+1 		 Vsebuje 	18529	 -0.908 
+0 	 Ne vsebuje 	18530	 1.226 
+0 	 Ne vsebuje 	18531	 0.732 
+0 	 Ne vsebuje 	18532	 -0.868 
+1 		 Vsebuje 	18533	 0.240 
+0 	 Ne vsebuje 	18534	 -0.874 
+0 	 Ne vsebuje 	18535	 -0.985 
+0 	 Ne vsebuje 	18536	 0.042 
+0 	 Ne vsebuje 	18537	 -1.028 
+0 	 Ne vsebuje 	18538	 -0.757 
+0 	 Ne vsebuje 	18539	 -0.533 
+0 	 Ne vsebuje 	18540	 -0.923 
+0 	 Ne vsebuje 	18541	 -0.650 
+0 	 Ne vsebuje 	18542	 -1.001 
+0 	 Ne vsebuje 	18543	 -1.077 
+0 	 Ne vsebuje 	18544	 -1.118 
+0 	 Ne vsebuje 	18545	 -0.785 
+0 	 Ne vsebuje 	18546	 -0.842 
+0 	 Ne vsebuje 	18547	 -0.698 
+0 	 Ne vsebuje 	18548	 -0.809 
+0 	 Ne vsebuje 	18549	 -1.283 
+0 	 Ne vsebuje 	18550	 -0.827 
+0 	 Ne vsebuje 	18551	 -0.893 
+0 	 Ne vsebuje 	18552	 -0.720 
+1 		 Vsebuje 	18553	 0.180 
+0 	 Ne vsebuje 	18554	 -0.386 
+0 	 Ne vsebuje 	18555	 -1.142 
+0 	 Ne vsebuje 	18556	 -0.049 
+0 	 Ne vsebuje 	18557	 -0.352 
+0 	 Ne vsebuje 	18558	 -1.075 
+0 	 Ne vsebuje 	18559	 -0.126 
+0 	 Ne vsebuje 	18560	 -0.639 
+0 	 Ne vsebuje 	18561	 0.411 
+0 	 Ne vsebuje 	18562	 -0.753 
+0 	 Ne vsebuje 	18563	 -0.949 
+0 	 Ne vsebuje 	18564	 -1.083 
+0 	 Ne vsebuje 	18565	 -0.360 
+0 	 Ne vsebuje 	18566	 -0.304 
+0 	 Ne vsebuje 	18567	 -0.406 
+0 	 Ne vsebuje 	18568	 -0.099 
+0 	 Ne vsebuje 	18569	 -0.600 
+0 	 Ne vsebuje 	18570	 -0.752 
+0 	 Ne vsebuje 	18571	 -0.296 
+0 	 Ne vsebuje 	18572	 -0.411 
+0 	 Ne vsebuje 	18573	 -0.902 
+0 	 Ne vsebuje 	18574	 -0.363 
+0 	 Ne vsebuje 	18575	 -0.666 
+0 	 Ne vsebuje 	18576	 -0.762 
+0 	 Ne vsebuje 	18577	 -0.714 
+0 	 Ne vsebuje 	18578	 -0.594 
+0 	 Ne vsebuje 	18579	 -0.790 
+0 	 Ne vsebuje 	18580	 -1.144 
+0 	 Ne vsebuje 	18581	 -0.113 
+0 	 Ne vsebuje 	18582	 -1.042 
+0 	 Ne vsebuje 	18583	 -0.843 
+1 		 Vsebuje 	18584	 -0.032 
+0 	 Ne vsebuje 	18585	 -0.618 
+0 	 Ne vsebuje 	18586	 -0.765 
+0 	 Ne vsebuje 	18587	 -0.823 
+0 	 Ne vsebuje 	18588	 0.162 
+0 	 Ne vsebuje 	18589	 -0.424 
+0 	 Ne vsebuje 	18590	 -1.410 
+0 	 Ne vsebuje 	18591	 -0.942 
+1 		 Vsebuje 	18592	 -0.113 
+0 	 Ne vsebuje 	18593	 -0.592 
+0 	 Ne vsebuje 	18594	 -0.819 
+0 	 Ne vsebuje 	18595	 0.020 
+0 	 Ne vsebuje 	18596	 -1.283 
+0 	 Ne vsebuje 	18597	 -0.475 
+0 	 Ne vsebuje 	18598	 -1.131 
+0 	 Ne vsebuje 	18599	 -1.066 
+0 	 Ne vsebuje 	18600	 -1.096 
+0 	 Ne vsebuje 	18601	 0.039 
+0 	 Ne vsebuje 	18602	 -1.100 
+0 	 Ne vsebuje 	18603	 -0.925 
+0 	 Ne vsebuje 	18604	 -0.598 
+0 	 Ne vsebuje 	18605	 -0.403 
+0 	 Ne vsebuje 	18606	 -1.355 
+0 	 Ne vsebuje 	18607	 -1.060 
+1 		 Vsebuje 	18608	 0.392 
+1 		 Vsebuje 	18609	 0.405 
+0 	 Ne vsebuje 	18610	 -0.970 
+0 	 Ne vsebuje 	18611	 0.356 
+0 	 Ne vsebuje 	18612	 -0.040 
+0 	 Ne vsebuje 	18613	 -0.629 
+1 		 Vsebuje 	18614	 0.897 
+0 	 Ne vsebuje 	18615	 -1.149 
+0 	 Ne vsebuje 	18616	 -1.017 
+1 		 Vsebuje 	18617	 0.969 
+1 		 Vsebuje 	18618	 0.869 
+0 	 Ne vsebuje 	18619	 -1.034 
+0 	 Ne vsebuje 	18620	 -0.887 
+0 	 Ne vsebuje 	18621	 -1.005 
+0 	 Ne vsebuje 	18622	 -0.706 
+0 	 Ne vsebuje 	18623	 -1.006 
+0 	 Ne vsebuje 	18624	 -0.943 
+0 	 Ne vsebuje 	18625	 -1.034 
+0 	 Ne vsebuje 	18626	 -0.524 
+0 	 Ne vsebuje 	18627	 -1.023 
+1 		 Vsebuje 	18628	 0.144 
+0 	 Ne vsebuje 	18629	 -1.037 
+0 	 Ne vsebuje 	18630	 -0.841 
+0 	 Ne vsebuje 	18631	 -0.601 
+0 	 Ne vsebuje 	18632	 -0.666 
+0 	 Ne vsebuje 	18633	 -0.308 
+0 	 Ne vsebuje 	18634	 -0.263 
+0 	 Ne vsebuje 	18635	 -0.617 
+0 	 Ne vsebuje 	18636	 -0.892 
+0 	 Ne vsebuje 	18637	 -0.477 
+0 	 Ne vsebuje 	18638	 -0.314 
+0 	 Ne vsebuje 	18639	 0.054 
+0 	 Ne vsebuje 	18640	 -0.675 
+0 	 Ne vsebuje 	18641	 -0.833 
+0 	 Ne vsebuje 	18642	 -0.732 
+0 	 Ne vsebuje 	18643	 -0.645 
+0 	 Ne vsebuje 	18644	 -0.793 
+0 	 Ne vsebuje 	18645	 -1.021 
+0 	 Ne vsebuje 	18646	 -0.652 
+0 	 Ne vsebuje 	18647	 -0.499 
+0 	 Ne vsebuje 	18648	 -0.309 
+0 	 Ne vsebuje 	18649	 -0.956 
+0 	 Ne vsebuje 	18650	 0.735 
+1 		 Vsebuje 	18651	 0.815 
+0 	 Ne vsebuje 	18652	 0.269 
+0 	 Ne vsebuje 	18653	 -0.694 
+0 	 Ne vsebuje 	18654	 -0.008 
+0 	 Ne vsebuje 	18655	 0.863 
+0 	 Ne vsebuje 	18656	 -0.531 
+0 	 Ne vsebuje 	18657	 -0.520 
+0 	 Ne vsebuje 	18658	 0.207 
+0 	 Ne vsebuje 	18659	 -0.370 
+0 	 Ne vsebuje 	18660	 -0.753 
+0 	 Ne vsebuje 	18661	 -0.708 
+0 	 Ne vsebuje 	18662	 -0.511 
+0 	 Ne vsebuje 	18663	 -0.562 
+0 	 Ne vsebuje 	18664	 -0.895 
+0 	 Ne vsebuje 	18665	 -0.865 
+0 	 Ne vsebuje 	18666	 -0.589 
+0 	 Ne vsebuje 	18667	 -0.847 
+0 	 Ne vsebuje 	18668	 -1.084 
+0 	 Ne vsebuje 	18669	 -0.723 
+0 	 Ne vsebuje 	18670	 -0.653 
+1 		 Vsebuje 	18671	 -0.431 
+0 	 Ne vsebuje 	18672	 -0.839 
+1 		 Vsebuje 	18673	 -0.912 
+0 	 Ne vsebuje 	18674	 -0.712 
+0 	 Ne vsebuje 	18675	 -0.792 
+0 	 Ne vsebuje 	18676	 -0.486 
+0 	 Ne vsebuje 	18677	 -1.261 
+0 	 Ne vsebuje 	18678	 -1.126 
+0 	 Ne vsebuje 	18679	 -0.814 
+0 	 Ne vsebuje 	18680	 -0.747 
+0 	 Ne vsebuje 	18681	 -0.902 
+0 	 Ne vsebuje 	18682	 -0.712 
+0 	 Ne vsebuje 	18683	 -0.991 
+0 	 Ne vsebuje 	18684	 -0.467 
+0 	 Ne vsebuje 	18685	 -0.339 
+0 	 Ne vsebuje 	18686	 -0.583 
+0 	 Ne vsebuje 	18687	 -0.990 
+0 	 Ne vsebuje 	18688	 -0.516 
+0 	 Ne vsebuje 	18689	 -0.699 
+1 		 Vsebuje 	18690	 -0.101 
+1 		 Vsebuje 	18691	 0.231 
+0 	 Ne vsebuje 	18692	 -0.608 
+0 	 Ne vsebuje 	18693	 -0.672 
+0 	 Ne vsebuje 	18694	 -0.523 
+1 		 Vsebuje 	18695	 0.431 
+0 	 Ne vsebuje 	18696	 0.203 
+0 	 Ne vsebuje 	18697	 -1.244 
+0 	 Ne vsebuje 	18698	 -0.788 
+1 		 Vsebuje 	18699	 -0.304 
+0 	 Ne vsebuje 	18700	 -0.785 
+0 	 Ne vsebuje 	18701	 0.006 
+0 	 Ne vsebuje 	18702	 -0.613 
+0 	 Ne vsebuje 	18703	 -0.465 
+0 	 Ne vsebuje 	18704	 -0.872 
+0 	 Ne vsebuje 	18705	 -0.316 
+0 	 Ne vsebuje 	18706	 0.705 
+0 	 Ne vsebuje 	18707	 -1.083 
+0 	 Ne vsebuje 	18708	 -0.640 
+0 	 Ne vsebuje 	18709	 -0.631 
+0 	 Ne vsebuje 	18710	 -0.652 
+0 	 Ne vsebuje 	18711	 -0.762 
+0 	 Ne vsebuje 	18712	 -1.001 
+0 	 Ne vsebuje 	18713	 -0.667 
+0 	 Ne vsebuje 	18714	 -0.800 
+0 	 Ne vsebuje 	18715	 0.445 
+0 	 Ne vsebuje 	18716	 -0.678 
+0 	 Ne vsebuje 	18717	 -0.908 
+0 	 Ne vsebuje 	18718	 -1.519 
+0 	 Ne vsebuje 	18719	 -0.612 
+0 	 Ne vsebuje 	18720	 -0.359 
+0 	 Ne vsebuje 	18721	 0.053 
+0 	 Ne vsebuje 	18722	 0.194 
+0 	 Ne vsebuje 	18723	 -0.770 
+0 	 Ne vsebuje 	18724	 -0.907 
+0 	 Ne vsebuje 	18725	 -0.709 
+0 	 Ne vsebuje 	18726	 -0.469 
+0 	 Ne vsebuje 	18727	 -0.715 
+0 	 Ne vsebuje 	18728	 -0.674 
+0 	 Ne vsebuje 	18729	 -0.190 
+0 	 Ne vsebuje 	18730	 0.554 
+0 	 Ne vsebuje 	18731	 -0.649 
+0 	 Ne vsebuje 	18732	 -0.476 
+0 	 Ne vsebuje 	18733	 -0.453 
+0 	 Ne vsebuje 	18734	 -1.063 
+1 		 Vsebuje 	18735	 0.124 
+0 	 Ne vsebuje 	18736	 -0.300 
+0 	 Ne vsebuje 	18737	 -0.430 
+0 	 Ne vsebuje 	18738	 -0.422 
+0 	 Ne vsebuje 	18739	 -0.177 
+0 	 Ne vsebuje 	18740	 -0.252 
+0 	 Ne vsebuje 	18741	 -0.713 
+0 	 Ne vsebuje 	18742	 -0.793 
+1 		 Vsebuje 	18743	 1.070 
+0 	 Ne vsebuje 	18744	 -0.914 
+0 	 Ne vsebuje 	18745	 -1.306 
+0 	 Ne vsebuje 	18746	 -1.264 
+0 	 Ne vsebuje 	18747	 -1.057 
+0 	 Ne vsebuje 	18748	 -0.600 
+0 	 Ne vsebuje 	18749	 0.050 
+0 	 Ne vsebuje 	18750	 -0.649 
+1 		 Vsebuje 	18751	 -0.818 
+1 		 Vsebuje 	18752	 -0.934 
+0 	 Ne vsebuje 	18753	 -0.833 
+0 	 Ne vsebuje 	18754	 -0.773 
+0 	 Ne vsebuje 	18755	 -0.780 
+0 	 Ne vsebuje 	18756	 -1.262 
+0 	 Ne vsebuje 	18757	 -0.612 
+0 	 Ne vsebuje 	18758	 -0.802 
+0 	 Ne vsebuje 	18759	 0.628 
+0 	 Ne vsebuje 	18760	 -1.077 
+1 		 Vsebuje 	18761	 0.948 
+0 	 Ne vsebuje 	18762	 -0.736 
+0 	 Ne vsebuje 	18763	 -0.652 
+0 	 Ne vsebuje 	18764	 -0.660 
+0 	 Ne vsebuje 	18765	 0.781 
+0 	 Ne vsebuje 	18766	 -0.283 
+0 	 Ne vsebuje 	18767	 -0.328 
+0 	 Ne vsebuje 	18768	 -1.021 
+0 	 Ne vsebuje 	18769	 -0.852 
+0 	 Ne vsebuje 	18770	 -0.829 
+0 	 Ne vsebuje 	18771	 -0.788 
+0 	 Ne vsebuje 	18772	 -0.839 
+0 	 Ne vsebuje 	18773	 -0.820 
+0 	 Ne vsebuje 	18774	 -0.190 
+0 	 Ne vsebuje 	18775	 -1.274 
+0 	 Ne vsebuje 	18776	 -0.794 
+0 	 Ne vsebuje 	18777	 -1.210 
+0 	 Ne vsebuje 	18778	 0.047 
+0 	 Ne vsebuje 	18779	 -0.822 
+1 		 Vsebuje 	18780	 -0.502 
+0 	 Ne vsebuje 	18781	 -0.853 
+0 	 Ne vsebuje 	18782	 -1.315 
+0 	 Ne vsebuje 	18783	 -0.791 
+0 	 Ne vsebuje 	18784	 -0.950 
+0 	 Ne vsebuje 	18785	 -0.729 
+0 	 Ne vsebuje 	18786	 -1.277 
+0 	 Ne vsebuje 	18787	 -1.778 
+0 	 Ne vsebuje 	18788	 -0.830 
+0 	 Ne vsebuje 	18789	 -0.554 
+0 	 Ne vsebuje 	18790	 -0.710 
+0 	 Ne vsebuje 	18791	 -1.066 
+0 	 Ne vsebuje 	18792	 -1.078 
+0 	 Ne vsebuje 	18793	 -1.110 
+0 	 Ne vsebuje 	18794	 -1.467 
+0 	 Ne vsebuje 	18795	 -0.779 
+0 	 Ne vsebuje 	18796	 -1.332 
+0 	 Ne vsebuje 	18797	 -0.622 
+0 	 Ne vsebuje 	18798	 0.230 
+0 	 Ne vsebuje 	18799	 -1.006 
+0 	 Ne vsebuje 	18800	 -0.628 
+0 	 Ne vsebuje 	18801	 -1.230 
+0 	 Ne vsebuje 	18802	 -1.171 
+0 	 Ne vsebuje 	18803	 0.674 
+0 	 Ne vsebuje 	18804	 -0.543 
+0 	 Ne vsebuje 	18805	 -1.033 
+0 	 Ne vsebuje 	18806	 -0.602 
+0 	 Ne vsebuje 	18807	 -0.750 
+0 	 Ne vsebuje 	18808	 -0.528 
+0 	 Ne vsebuje 	18809	 -0.568 
+0 	 Ne vsebuje 	18810	 -0.634 
+0 	 Ne vsebuje 	18811	 -0.821 
+0 	 Ne vsebuje 	18812	 -1.071 
+0 	 Ne vsebuje 	18813	 -0.479 
+0 	 Ne vsebuje 	18814	 -0.827 
+0 	 Ne vsebuje 	18815	 -0.651 
+0 	 Ne vsebuje 	18816	 -0.673 
+0 	 Ne vsebuje 	18817	 -0.876 
+0 	 Ne vsebuje 	18818	 -1.348 
+0 	 Ne vsebuje 	18819	 -0.634 
+0 	 Ne vsebuje 	18820	 -0.336 
+0 	 Ne vsebuje 	18821	 -0.736 
+0 	 Ne vsebuje 	18822	 -1.062 
+0 	 Ne vsebuje 	18823	 -1.227 
+0 	 Ne vsebuje 	18824	 -0.839 
+0 	 Ne vsebuje 	18825	 -0.965 
+0 	 Ne vsebuje 	18826	 -1.251 
+0 	 Ne vsebuje 	18827	 -0.769 
+0 	 Ne vsebuje 	18828	 -0.785 
+0 	 Ne vsebuje 	18829	 -1.007 
+0 	 Ne vsebuje 	18830	 -0.800 
+0 	 Ne vsebuje 	18831	 -0.825 
+0 	 Ne vsebuje 	18832	 -0.557 
+0 	 Ne vsebuje 	18833	 -0.965 
+0 	 Ne vsebuje 	18834	 -0.772 
+0 	 Ne vsebuje 	18835	 -1.025 
+0 	 Ne vsebuje 	18836	 -0.758 
+0 	 Ne vsebuje 	18837	 -0.211 
+0 	 Ne vsebuje 	18838	 -0.608 
+0 	 Ne vsebuje 	18839	 -0.211 
+1 		 Vsebuje 	18840	 -0.314 
+0 	 Ne vsebuje 	18841	 -0.330 
+0 	 Ne vsebuje 	18842	 -1.006 
+0 	 Ne vsebuje 	18843	 -1.118 
+0 	 Ne vsebuje 	18844	 -0.955 
+0 	 Ne vsebuje 	18845	 -0.613 
+0 	 Ne vsebuje 	18846	 -0.738 
+0 	 Ne vsebuje 	18847	 -0.724 
+0 	 Ne vsebuje 	18848	 -0.963 
+0 	 Ne vsebuje 	18849	 -0.987 
+0 	 Ne vsebuje 	18850	 -0.929 
+0 	 Ne vsebuje 	18851	 -0.891 
+0 	 Ne vsebuje 	18852	 -0.642 
+0 	 Ne vsebuje 	18853	 -0.667 
+0 	 Ne vsebuje 	18854	 -0.776 
+0 	 Ne vsebuje 	18855	 -1.273 
+0 	 Ne vsebuje 	18856	 -0.884 
+0 	 Ne vsebuje 	18857	 -1.190 
+0 	 Ne vsebuje 	18858	 -0.743 
+0 	 Ne vsebuje 	18859	 -0.688 
+0 	 Ne vsebuje 	18860	 -0.866 
+0 	 Ne vsebuje 	18861	 -0.411 
+0 	 Ne vsebuje 	18862	 -0.852 
+0 	 Ne vsebuje 	18863	 -1.116 
+0 	 Ne vsebuje 	18864	 -0.936 
+0 	 Ne vsebuje 	18865	 0.393 
+0 	 Ne vsebuje 	18866	 -0.740 
+0 	 Ne vsebuje 	18867	 -0.809 
+0 	 Ne vsebuje 	18868	 -0.771 
+0 	 Ne vsebuje 	18869	 -1.053 
+0 	 Ne vsebuje 	18870	 -1.044 
+0 	 Ne vsebuje 	18871	 -0.853 
+0 	 Ne vsebuje 	18872	 -0.717 
+0 	 Ne vsebuje 	18873	 -0.888 
+1 		 Vsebuje 	18874	 -0.316 
+0 	 Ne vsebuje 	18875	 -0.755 
+0 	 Ne vsebuje 	18876	 -0.603 
+0 	 Ne vsebuje 	18877	 -0.910 
+0 	 Ne vsebuje 	18878	 -1.043 
+0 	 Ne vsebuje 	18879	 -1.011 
+0 	 Ne vsebuje 	18880	 -0.681 
+0 	 Ne vsebuje 	18881	 -0.641 
+0 	 Ne vsebuje 	18882	 -1.006 
+0 	 Ne vsebuje 	18883	 -0.335 
+0 	 Ne vsebuje 	18884	 -0.579 
+0 	 Ne vsebuje 	18885	 -0.933 
+1 		 Vsebuje 	18886	 -0.471 
+0 	 Ne vsebuje 	18887	 -0.923 
+0 	 Ne vsebuje 	18888	 -0.800 
+0 	 Ne vsebuje 	18889	 -0.906 
+0 	 Ne vsebuje 	18890	 -1.099 
+0 	 Ne vsebuje 	18891	 -0.729 
+0 	 Ne vsebuje 	18892	 -1.132 
+0 	 Ne vsebuje 	18893	 -1.095 
+0 	 Ne vsebuje 	18894	 -1.222 
+0 	 Ne vsebuje 	18895	 -0.873 
+0 	 Ne vsebuje 	18896	 -0.989 
+0 	 Ne vsebuje 	18897	 -1.267 
+0 	 Ne vsebuje 	18898	 -0.866 
+0 	 Ne vsebuje 	18899	 -0.820 
+0 	 Ne vsebuje 	18900	 -0.899 
+0 	 Ne vsebuje 	18901	 -0.838 
+0 	 Ne vsebuje 	18902	 -1.136 
+0 	 Ne vsebuje 	18903	 -1.288 
+0 	 Ne vsebuje 	18904	 -0.787 
+0 	 Ne vsebuje 	18905	 -0.699 
+0 	 Ne vsebuje 	18906	 -0.861 
+0 	 Ne vsebuje 	18907	 -0.777 
+0 	 Ne vsebuje 	18908	 -1.102 
+0 	 Ne vsebuje 	18909	 -1.228 
+0 	 Ne vsebuje 	18910	 -1.107 
+0 	 Ne vsebuje 	18911	 -1.278 
+0 	 Ne vsebuje 	18912	 -1.177 
+0 	 Ne vsebuje 	18913	 -0.903 
+0 	 Ne vsebuje 	18914	 -0.899 
+0 	 Ne vsebuje 	18915	 -1.091 
+0 	 Ne vsebuje 	18916	 -0.897 
+0 	 Ne vsebuje 	18917	 -0.993 
+0 	 Ne vsebuje 	18918	 -1.144 
+0 	 Ne vsebuje 	18919	 -0.653 
+0 	 Ne vsebuje 	18920	 -1.261 
+0 	 Ne vsebuje 	18921	 -0.619 
+0 	 Ne vsebuje 	18922	 -0.695 
+0 	 Ne vsebuje 	18923	 -1.047 
+0 	 Ne vsebuje 	18924	 -1.079 
+0 	 Ne vsebuje 	18925	 -0.629 
+0 	 Ne vsebuje 	18926	 -0.519 
+0 	 Ne vsebuje 	18927	 -1.220 
+0 	 Ne vsebuje 	18928	 -0.889 
+0 	 Ne vsebuje 	18929	 -1.146 
+0 	 Ne vsebuje 	18930	 -1.001 
+0 	 Ne vsebuje 	18931	 -0.898 
+0 	 Ne vsebuje 	18932	 -1.329 
+0 	 Ne vsebuje 	18933	 -1.150 
+0 	 Ne vsebuje 	18934	 -1.155 
+0 	 Ne vsebuje 	18935	 -0.948 
+0 	 Ne vsebuje 	18936	 -1.155 
+0 	 Ne vsebuje 	18937	 -1.067 
+0 	 Ne vsebuje 	18938	 -1.036 
+0 	 Ne vsebuje 	18939	 -0.722 
+0 	 Ne vsebuje 	18940	 -1.009 
+0 	 Ne vsebuje 	18941	 -0.601 
+0 	 Ne vsebuje 	18942	 -1.274 
+0 	 Ne vsebuje 	18943	 -1.043 
+0 	 Ne vsebuje 	18944	 -1.130 
+0 	 Ne vsebuje 	18945	 -1.124 
+0 	 Ne vsebuje 	18946	 -1.162 
+0 	 Ne vsebuje 	18947	 -0.957 
+0 	 Ne vsebuje 	18948	 -1.186 
+0 	 Ne vsebuje 	18949	 -0.927 
+0 	 Ne vsebuje 	18950	 -1.163 
+0 	 Ne vsebuje 	18951	 -1.023 
+0 	 Ne vsebuje 	18952	 -1.124 
+0 	 Ne vsebuje 	18953	 -1.017 
+0 	 Ne vsebuje 	18954	 -1.096 
+0 	 Ne vsebuje 	18955	 -1.138 
+0 	 Ne vsebuje 	18956	 -0.915 
+0 	 Ne vsebuje 	18957	 -0.874 
+0 	 Ne vsebuje 	18958	 -1.169 
+0 	 Ne vsebuje 	18959	 -1.174 
+0 	 Ne vsebuje 	18960	 -0.841 
+0 	 Ne vsebuje 	18961	 -1.055 
+0 	 Ne vsebuje 	18962	 -0.970 
+0 	 Ne vsebuje 	18963	 -1.151 
+0 	 Ne vsebuje 	18964	 -1.038 
+0 	 Ne vsebuje 	18965	 -1.198 
+0 	 Ne vsebuje 	18966	 -1.203 
+0 	 Ne vsebuje 	18967	 -1.079 
+0 	 Ne vsebuje 	18968	 -1.162 
+0 	 Ne vsebuje 	18969	 -0.729 
+0 	 Ne vsebuje 	18970	 -1.064 
+0 	 Ne vsebuje 	18971	 -1.053 
+0 	 Ne vsebuje 	18972	 -1.004 
+0 	 Ne vsebuje 	18973	 -1.190 
+0 	 Ne vsebuje 	18974	 -1.083 
+0 	 Ne vsebuje 	18975	 -1.190 
+0 	 Ne vsebuje 	18976	 -0.717 
+0 	 Ne vsebuje 	18977	 -0.713 
+0 	 Ne vsebuje 	18978	 -0.897 
+0 	 Ne vsebuje 	18979	 -0.923 
+0 	 Ne vsebuje 	18980	 -1.004 
+0 	 Ne vsebuje 	18981	 -0.790 
+0 	 Ne vsebuje 	18982	 -0.908 
+0 	 Ne vsebuje 	18983	 0.057 
+0 	 Ne vsebuje 	18984	 0.408 
+0 	 Ne vsebuje 	18985	 -0.852 
+0 	 Ne vsebuje 	18986	 -0.826 
+0 	 Ne vsebuje 	18987	 -0.845 
+0 	 Ne vsebuje 	18988	 -0.996 
+0 	 Ne vsebuje 	18989	 -1.389 
+0 	 Ne vsebuje 	18990	 -0.954 
+0 	 Ne vsebuje 	18991	 -0.137 
+0 	 Ne vsebuje 	18992	 -0.586 
+1 		 Vsebuje 	18993	 0.391 
+0 	 Ne vsebuje 	18994	 -0.564 
+0 	 Ne vsebuje 	18995	 -0.831 
+0 	 Ne vsebuje 	18996	 -0.671 
+0 	 Ne vsebuje 	18997	 -0.533 
+0 	 Ne vsebuje 	18998	 -0.827 
+0 	 Ne vsebuje 	18999	 -1.099 
+0 	 Ne vsebuje 	19000	 -0.977 
+0 	 Ne vsebuje 	19001	 -1.188 
+0 	 Ne vsebuje 	19002	 -1.158 
+0 	 Ne vsebuje 	19003	 -0.769 
+0 	 Ne vsebuje 	19004	 -1.042 
+0 	 Ne vsebuje 	19005	 -0.630 
+0 	 Ne vsebuje 	19006	 -1.033 
+0 	 Ne vsebuje 	19007	 -0.928 
+0 	 Ne vsebuje 	19008	 -0.954 
+0 	 Ne vsebuje 	19009	 -0.955 
+0 	 Ne vsebuje 	19010	 0.885 
+0 	 Ne vsebuje 	19011	 0.712 
+0 	 Ne vsebuje 	19012	 0.969 
+0 	 Ne vsebuje 	19013	 0.399 
+0 	 Ne vsebuje 	19014	 -0.205 
+1 		 Vsebuje 	19015	 -0.380 
+0 	 Ne vsebuje 	19016	 -0.870 
+1 		 Vsebuje 	19017	 -0.703 
+1 		 Vsebuje 	19018	 -0.745 
+0 	 Ne vsebuje 	19019	 -0.475 
+1 		 Vsebuje 	19020	 -0.309 
+0 	 Ne vsebuje 	19021	 0.719 
+0 	 Ne vsebuje 	19022	 -0.578 
+1 		 Vsebuje 	19023	 -0.194 
+0 	 Ne vsebuje 	19024	 -0.845 
+0 	 Ne vsebuje 	19025	 -0.733 
+0 	 Ne vsebuje 	19026	 -0.488 
+0 	 Ne vsebuje 	19027	 -0.436 
+0 	 Ne vsebuje 	19028	 -0.840 
+0 	 Ne vsebuje 	19029	 -0.177 
+0 	 Ne vsebuje 	19030	 -1.108 
+0 	 Ne vsebuje 	19031	 -1.101 
+0 	 Ne vsebuje 	19032	 0.486 
+0 	 Ne vsebuje 	19033	 -0.864 
+0 	 Ne vsebuje 	19034	 0.135 
+0 	 Ne vsebuje 	19035	 0.066 
+1 		 Vsebuje 	19036	 0.719 
+0 	 Ne vsebuje 	19037	 -0.634 
+0 	 Ne vsebuje 	19038	 0.247 
+0 	 Ne vsebuje 	19039	 -0.538 
+0 	 Ne vsebuje 	19040	 -0.829 
+0 	 Ne vsebuje 	19041	 0.101 
+0 	 Ne vsebuje 	19042	 -1.379 
+0 	 Ne vsebuje 	19043	 -0.789 
+0 	 Ne vsebuje 	19044	 -1.221 
+1 		 Vsebuje 	19045	 -0.231 
+0 	 Ne vsebuje 	19046	 -0.868 
+0 	 Ne vsebuje 	19047	 -0.234 
+0 	 Ne vsebuje 	19048	 0.459 
+1 		 Vsebuje 	19049	 0.897 
+1 		 Vsebuje 	19050	 -0.121 
+0 	 Ne vsebuje 	19051	 -0.067 
+1 		 Vsebuje 	19052	 -0.562 
+0 	 Ne vsebuje 	19053	 -0.075 
+1 		 Vsebuje 	19054	 -0.130 
+0 	 Ne vsebuje 	19055	 -0.578 
+0 	 Ne vsebuje 	19056	 -0.992 
+0 	 Ne vsebuje 	19057	 -0.444 
+0 	 Ne vsebuje 	19058	 -0.841 
+0 	 Ne vsebuje 	19059	 -0.146 
+0 	 Ne vsebuje 	19060	 -0.096 
+0 	 Ne vsebuje 	19061	 -0.213 
+0 	 Ne vsebuje 	19062	 -0.095 
+1 		 Vsebuje 	19063	 0.353 
+1 		 Vsebuje 	19064	 1.245 
+1 		 Vsebuje 	19065	 -0.301 
+0 	 Ne vsebuje 	19066	 0.056 
+0 	 Ne vsebuje 	19067	 -0.446 
+1 		 Vsebuje 	19068	 1.044 
+0 	 Ne vsebuje 	19069	 -0.640 
+1 		 Vsebuje 	19070	 0.674 
+0 	 Ne vsebuje 	19071	 -0.491 
+0 	 Ne vsebuje 	19072	 -0.748 
+1 		 Vsebuje 	19073	 0.397 
+1 		 Vsebuje 	19074	 1.130 
+0 	 Ne vsebuje 	19075	 0.145 
+1 		 Vsebuje 	19076	 0.534 
+0 	 Ne vsebuje 	19077	 -0.670 
+0 	 Ne vsebuje 	19078	 -0.786 
+0 	 Ne vsebuje 	19079	 -0.754 
+0 	 Ne vsebuje 	19080	 0.065 
+1 		 Vsebuje 	19081	 -0.481 
+0 	 Ne vsebuje 	19082	 -0.222 
+0 	 Ne vsebuje 	19083	 -0.853 
+0 	 Ne vsebuje 	19084	 -0.642 
+0 	 Ne vsebuje 	19085	 0.255 
+1 		 Vsebuje 	19086	 1.048 
+1 		 Vsebuje 	19087	 -0.402 
+1 		 Vsebuje 	19088	 -0.503 
+1 		 Vsebuje 	19089	 0.608 
+1 		 Vsebuje 	19090	 -0.712 
+1 		 Vsebuje 	19091	 -0.475 
+1 		 Vsebuje 	19092	 -0.360 
+0 	 Ne vsebuje 	19093	 1.024 
+1 		 Vsebuje 	19094	 0.935 
+0 	 Ne vsebuje 	19095	 -0.777 
+0 	 Ne vsebuje 	19096	 -1.007 
+1 		 Vsebuje 	19097	 -0.433 
+0 	 Ne vsebuje 	19098	 0.176 
+0 	 Ne vsebuje 	19099	 -0.967 
+0 	 Ne vsebuje 	19100	 -0.278 
+0 	 Ne vsebuje 	19101	 -0.782 
+0 	 Ne vsebuje 	19102	 -0.455 
+0 	 Ne vsebuje 	19103	 -0.275 
+0 	 Ne vsebuje 	19104	 -0.797 
+0 	 Ne vsebuje 	19105	 -1.067 
+0 	 Ne vsebuje 	19106	 -0.747 
+1 		 Vsebuje 	19107	 -0.187 
+0 	 Ne vsebuje 	19108	 -1.143 
+0 	 Ne vsebuje 	19109	 -0.285 
+0 	 Ne vsebuje 	19110	 -0.279 
+0 	 Ne vsebuje 	19111	 -0.822 
+0 	 Ne vsebuje 	19112	 0.085 
+0 	 Ne vsebuje 	19113	 -0.793 
+0 	 Ne vsebuje 	19114	 -0.789 
+0 	 Ne vsebuje 	19115	 0.024 
+0 	 Ne vsebuje 	19116	 0.512 
+0 	 Ne vsebuje 	19117	 0.241 
+0 	 Ne vsebuje 	19118	 -0.362 
+0 	 Ne vsebuje 	19119	 0.573 
+0 	 Ne vsebuje 	19120	 -0.237 
+0 	 Ne vsebuje 	19121	 -0.333 
+0 	 Ne vsebuje 	19122	 -0.546 
+0 	 Ne vsebuje 	19123	 -0.804 
+0 	 Ne vsebuje 	19124	 -0.643 
+0 	 Ne vsebuje 	19125	 -0.842 
+0 	 Ne vsebuje 	19126	 -0.700 
+0 	 Ne vsebuje 	19127	 -1.016 
+0 	 Ne vsebuje 	19128	 -0.274 
+0 	 Ne vsebuje 	19129	 -0.861 
+0 	 Ne vsebuje 	19130	 -0.257 
+0 	 Ne vsebuje 	19131	 -0.751 
+0 	 Ne vsebuje 	19132	 -1.064 
+0 	 Ne vsebuje 	19133	 -0.866 
+0 	 Ne vsebuje 	19134	 -0.691 
+1 		 Vsebuje 	19135	 0.320 
+0 	 Ne vsebuje 	19136	 -0.534 
+0 	 Ne vsebuje 	19137	 -0.233 
+0 	 Ne vsebuje 	19138	 0.872 
+0 	 Ne vsebuje 	19139	 -0.908 
+0 	 Ne vsebuje 	19140	 -0.522 
+0 	 Ne vsebuje 	19141	 0.624 
+0 	 Ne vsebuje 	19142	 -0.794 
+0 	 Ne vsebuje 	19143	 -0.484 
+0 	 Ne vsebuje 	19144	 -0.547 
+0 	 Ne vsebuje 	19145	 -0.994 
+0 	 Ne vsebuje 	19146	 -0.852 
+1 		 Vsebuje 	19147	 -0.074 
+0 	 Ne vsebuje 	19148	 -0.134 
+0 	 Ne vsebuje 	19149	 -0.482 
+0 	 Ne vsebuje 	19150	 -0.855 
+0 	 Ne vsebuje 	19151	 -0.195 
+0 	 Ne vsebuje 	19152	 -0.379 
+0 	 Ne vsebuje 	19153	 -0.407 
+0 	 Ne vsebuje 	19154	 -1.004 
+0 	 Ne vsebuje 	19155	 0.668 
+1 		 Vsebuje 	19156	 -0.310 
+0 	 Ne vsebuje 	19157	 -0.556 
+0 	 Ne vsebuje 	19158	 -0.047 
+0 	 Ne vsebuje 	19159	 -0.208 
+0 	 Ne vsebuje 	19160	 -0.715 
+1 		 Vsebuje 	19161	 0.278 
+0 	 Ne vsebuje 	19162	 -1.277 
+0 	 Ne vsebuje 	19163	 -1.053 
+0 	 Ne vsebuje 	19164	 -1.265 
+0 	 Ne vsebuje 	19165	 -0.616 
+0 	 Ne vsebuje 	19166	 0.109 
+1 		 Vsebuje 	19167	 0.955 
+1 		 Vsebuje 	19168	 0.492 
+1 		 Vsebuje 	19169	 0.651 
+1 		 Vsebuje 	19170	 0.824 
+1 		 Vsebuje 	19171	 -0.116 
+0 	 Ne vsebuje 	19172	 -0.880 
+1 		 Vsebuje 	19173	 1.094 
+0 	 Ne vsebuje 	19174	 -0.549 
+0 	 Ne vsebuje 	19175	 -0.851 
+1 		 Vsebuje 	19176	 -0.430 
+0 	 Ne vsebuje 	19177	 -0.931 
+0 	 Ne vsebuje 	19178	 -0.553 
+0 	 Ne vsebuje 	19179	 1.104 
+0 	 Ne vsebuje 	19180	 -0.590 
+0 	 Ne vsebuje 	19181	 -0.536 
+0 	 Ne vsebuje 	19182	 -1.137 
+0 	 Ne vsebuje 	19183	 -0.215 
+0 	 Ne vsebuje 	19184	 -0.587 
+0 	 Ne vsebuje 	19185	 -0.353 
+0 	 Ne vsebuje 	19186	 0.849 
+0 	 Ne vsebuje 	19187	 -0.074 
+0 	 Ne vsebuje 	19188	 -0.387 
+0 	 Ne vsebuje 	19189	 0.052 
+0 	 Ne vsebuje 	19190	 -0.506 
+0 	 Ne vsebuje 	19191	 -0.891 
+0 	 Ne vsebuje 	19192	 -1.094 
+0 	 Ne vsebuje 	19193	 -0.719 
+0 	 Ne vsebuje 	19194	 -0.635 
+0 	 Ne vsebuje 	19195	 -0.925 
+0 	 Ne vsebuje 	19196	 -1.047 
+0 	 Ne vsebuje 	19197	 0.037 
+1 		 Vsebuje 	19198	 -0.003 
+0 	 Ne vsebuje 	19199	 -1.069 
+0 	 Ne vsebuje 	19200	 0.217 
+0 	 Ne vsebuje 	19201	 -0.105 
+1 		 Vsebuje 	19202	 0.854 
+0 	 Ne vsebuje 	19203	 -1.027 
+1 		 Vsebuje 	19204	 0.382 
+1 		 Vsebuje 	19205	 -0.013 
+0 	 Ne vsebuje 	19206	 -0.503 
+0 	 Ne vsebuje 	19207	 -0.832 
+0 	 Ne vsebuje 	19208	 -0.315 
+1 		 Vsebuje 	19209	 0.940 
+0 	 Ne vsebuje 	19210	 -0.284 
+0 	 Ne vsebuje 	19211	 -0.729 
+0 	 Ne vsebuje 	19212	 -0.704 
+0 	 Ne vsebuje 	19213	 0.184 
+1 		 Vsebuje 	19214	 0.503 
+0 	 Ne vsebuje 	19215	 0.148 
+0 	 Ne vsebuje 	19216	 -0.480 
+0 	 Ne vsebuje 	19217	 0.831 
+0 	 Ne vsebuje 	19218	 -0.878 
+0 	 Ne vsebuje 	19219	 -0.820 
+0 	 Ne vsebuje 	19220	 -0.557 
+0 	 Ne vsebuje 	19221	 -0.429 
+0 	 Ne vsebuje 	19222	 -0.625 
+0 	 Ne vsebuje 	19223	 -0.366 
+0 	 Ne vsebuje 	19224	 0.192 
+0 	 Ne vsebuje 	19225	 -0.692 
+0 	 Ne vsebuje 	19226	 -0.499 
+0 	 Ne vsebuje 	19227	 -0.701 
+1 		 Vsebuje 	19228	 0.264 
+0 	 Ne vsebuje 	19229	 -0.240 
+0 	 Ne vsebuje 	19230	 -0.451 
+0 	 Ne vsebuje 	19231	 -0.620 
+0 	 Ne vsebuje 	19232	 -0.786 
+0 	 Ne vsebuje 	19233	 -0.259 
+0 	 Ne vsebuje 	19234	 -0.812 
+0 	 Ne vsebuje 	19235	 -0.818 
+0 	 Ne vsebuje 	19236	 -0.489 
+0 	 Ne vsebuje 	19237	 -0.642 
+0 	 Ne vsebuje 	19238	 -1.039 
+0 	 Ne vsebuje 	19239	 -0.898 
+0 	 Ne vsebuje 	19240	 -0.591 
+1 		 Vsebuje 	19241	 0.160 
+0 	 Ne vsebuje 	19242	 -1.063 
+0 	 Ne vsebuje 	19243	 -0.469 
+0 	 Ne vsebuje 	19244	 -0.662 
+1 		 Vsebuje 	19245	 0.817 
+0 	 Ne vsebuje 	19246	 -0.619 
+0 	 Ne vsebuje 	19247	 -0.766 
+0 	 Ne vsebuje 	19248	 -0.697 
+0 	 Ne vsebuje 	19249	 -0.967 
+0 	 Ne vsebuje 	19250	 -0.577 
+0 	 Ne vsebuje 	19251	 -0.164 
+0 	 Ne vsebuje 	19252	 -0.233 
+1 		 Vsebuje 	19253	 0.080 
+0 	 Ne vsebuje 	19254	 -0.897 
+0 	 Ne vsebuje 	19255	 -0.970 
+0 	 Ne vsebuje 	19256	 -0.968 
+0 	 Ne vsebuje 	19257	 -0.926 
+0 	 Ne vsebuje 	19258	 -1.011 
+0 	 Ne vsebuje 	19259	 -1.002 
+0 	 Ne vsebuje 	19260	 -0.282 
+0 	 Ne vsebuje 	19261	 -1.050 
+0 	 Ne vsebuje 	19262	 -0.633 
+0 	 Ne vsebuje 	19263	 -0.465 
+1 		 Vsebuje 	19264	 -0.142 
+0 	 Ne vsebuje 	19265	 -0.340 
+0 	 Ne vsebuje 	19266	 -0.447 
+0 	 Ne vsebuje 	19267	 -0.875 
+0 	 Ne vsebuje 	19268	 -0.853 
+0 	 Ne vsebuje 	19269	 -0.762 
+0 	 Ne vsebuje 	19270	 -0.717 
+1 		 Vsebuje 	19271	 -0.478 
+1 		 Vsebuje 	19272	 -0.221 
+0 	 Ne vsebuje 	19273	 -0.025 
+0 	 Ne vsebuje 	19274	 0.565 
+0 	 Ne vsebuje 	19275	 -0.593 
+1 		 Vsebuje 	19276	 -0.030 
+0 	 Ne vsebuje 	19277	 -0.649 
+0 	 Ne vsebuje 	19278	 -0.870 
+0 	 Ne vsebuje 	19279	 -0.475 
+0 	 Ne vsebuje 	19280	 -0.506 
+0 	 Ne vsebuje 	19281	 -0.851 
+0 	 Ne vsebuje 	19282	 -0.584 
+0 	 Ne vsebuje 	19283	 -0.973 
+1 		 Vsebuje 	19284	 -0.039 
+0 	 Ne vsebuje 	19285	 -0.712 
+0 	 Ne vsebuje 	19286	 -1.285 
+0 	 Ne vsebuje 	19287	 -1.039 
+0 	 Ne vsebuje 	19288	 -0.708 
+0 	 Ne vsebuje 	19289	 -0.066 
+0 	 Ne vsebuje 	19290	 -0.962 
+0 	 Ne vsebuje 	19291	 -0.965 
+0 	 Ne vsebuje 	19292	 -0.949 
+0 	 Ne vsebuje 	19293	 -1.021 
+0 	 Ne vsebuje 	19294	 -0.703 
+0 	 Ne vsebuje 	19295	 -0.990 
+0 	 Ne vsebuje 	19296	 -0.198 
+0 	 Ne vsebuje 	19297	 -0.362 
+1 		 Vsebuje 	19298	 0.560 
+1 		 Vsebuje 	19299	 -0.208 
+0 	 Ne vsebuje 	19300	 -0.931 
+1 		 Vsebuje 	19301	 -0.159 
+0 	 Ne vsebuje 	19302	 -0.153 
+0 	 Ne vsebuje 	19303	 -0.595 
+1 		 Vsebuje 	19304	 -0.658 
+0 	 Ne vsebuje 	19305	 -0.394 
+0 	 Ne vsebuje 	19306	 -0.701 
+0 	 Ne vsebuje 	19307	 -0.528 
+0 	 Ne vsebuje 	19308	 0.038 
+0 	 Ne vsebuje 	19309	 -0.534 
+0 	 Ne vsebuje 	19310	 -0.928 
+1 		 Vsebuje 	19311	 0.639 
+0 	 Ne vsebuje 	19312	 -0.800 
+0 	 Ne vsebuje 	19313	 -0.404 
+0 	 Ne vsebuje 	19314	 -0.656 
+0 	 Ne vsebuje 	19315	 -0.945 
+1 		 Vsebuje 	19316	 -0.383 
+0 	 Ne vsebuje 	19317	 -0.259 
+0 	 Ne vsebuje 	19318	 -1.058 
+0 	 Ne vsebuje 	19319	 -1.179 
+0 	 Ne vsebuje 	19320	 -0.858 
+0 	 Ne vsebuje 	19321	 -1.217 
+0 	 Ne vsebuje 	19322	 0.025 
+0 	 Ne vsebuje 	19323	 -0.913 
+0 	 Ne vsebuje 	19324	 -0.532 
+0 	 Ne vsebuje 	19325	 -0.535 
+0 	 Ne vsebuje 	19326	 -0.897 
+0 	 Ne vsebuje 	19327	 0.419 
+0 	 Ne vsebuje 	19328	 -0.663 
+0 	 Ne vsebuje 	19329	 -0.920 
+0 	 Ne vsebuje 	19330	 -0.934 
+0 	 Ne vsebuje 	19331	 -1.290 
+0 	 Ne vsebuje 	19332	 -0.835 
+0 	 Ne vsebuje 	19333	 -0.889 
+0 	 Ne vsebuje 	19334	 -0.398 
+0 	 Ne vsebuje 	19335	 -0.079 
+1 		 Vsebuje 	19336	 0.724 
+1 		 Vsebuje 	19337	 0.695 
+0 	 Ne vsebuje 	19338	 -0.846 
+0 	 Ne vsebuje 	19339	 -0.994 
+0 	 Ne vsebuje 	19340	 0.086 
+1 		 Vsebuje 	19341	 0.829 
+0 	 Ne vsebuje 	19342	 -0.455 
+1 		 Vsebuje 	19343	 0.763 
+0 	 Ne vsebuje 	19344	 -1.449 
+0 	 Ne vsebuje 	19345	 -0.947 
+0 	 Ne vsebuje 	19346	 -0.047 
+0 	 Ne vsebuje 	19347	 0.580 
+0 	 Ne vsebuje 	19348	 -0.436 
+0 	 Ne vsebuje 	19349	 -1.516 
+0 	 Ne vsebuje 	19350	 -0.259 
+0 	 Ne vsebuje 	19351	 -0.611 
+0 	 Ne vsebuje 	19352	 -0.791 
+0 	 Ne vsebuje 	19353	 -0.307 
+0 	 Ne vsebuje 	19354	 -0.161 
+0 	 Ne vsebuje 	19355	 -0.529 
+0 	 Ne vsebuje 	19356	 -0.654 
+0 	 Ne vsebuje 	19357	 -0.751 
+0 	 Ne vsebuje 	19358	 -1.055 
+0 	 Ne vsebuje 	19359	 -0.859 
+0 	 Ne vsebuje 	19360	 -0.499 
+0 	 Ne vsebuje 	19361	 -0.351 
+0 	 Ne vsebuje 	19362	 -0.354 
+0 	 Ne vsebuje 	19363	 -0.487 
+0 	 Ne vsebuje 	19364	 -0.991 
+0 	 Ne vsebuje 	19365	 -0.934 
+0 	 Ne vsebuje 	19366	 -0.764 
+0 	 Ne vsebuje 	19367	 -0.593 
+0 	 Ne vsebuje 	19368	 -0.460 
+1 		 Vsebuje 	19369	 -0.615 
+0 	 Ne vsebuje 	19370	 -0.713 
+0 	 Ne vsebuje 	19371	 -0.387 
+0 	 Ne vsebuje 	19372	 0.054 
+0 	 Ne vsebuje 	19373	 -0.240 
+0 	 Ne vsebuje 	19374	 -0.423 
+0 	 Ne vsebuje 	19375	 -0.759 
+0 	 Ne vsebuje 	19376	 -1.203 
+0 	 Ne vsebuje 	19377	 -0.773 
+0 	 Ne vsebuje 	19378	 -0.632 
+0 	 Ne vsebuje 	19379	 -0.816 
+0 	 Ne vsebuje 	19380	 0.127 
+1 		 Vsebuje 	19381	 -0.100 
+0 	 Ne vsebuje 	19382	 0.070 
+0 	 Ne vsebuje 	19383	 -0.974 
+1 		 Vsebuje 	19384	 1.383 
+0 	 Ne vsebuje 	19385	 -0.880 
+0 	 Ne vsebuje 	19386	 0.004 
+1 		 Vsebuje 	19387	 -0.208 
+0 	 Ne vsebuje 	19388	 -0.909 
+0 	 Ne vsebuje 	19389	 -1.082 
+0 	 Ne vsebuje 	19390	 -0.524 
+0 	 Ne vsebuje 	19391	 -0.807 
+0 	 Ne vsebuje 	19392	 -0.796 
+0 	 Ne vsebuje 	19393	 -0.655 
+0 	 Ne vsebuje 	19394	 -0.994 
+0 	 Ne vsebuje 	19395	 -0.568 
+0 	 Ne vsebuje 	19396	 -1.136 
+0 	 Ne vsebuje 	19397	 -0.933 
+0 	 Ne vsebuje 	19398	 -0.476 
+0 	 Ne vsebuje 	19399	 -0.083 
+0 	 Ne vsebuje 	19400	 -0.890 
+1 		 Vsebuje 	19401	 0.569 
+0 	 Ne vsebuje 	19402	 0.095 
+0 	 Ne vsebuje 	19403	 -0.885 
+0 	 Ne vsebuje 	19404	 -0.606 
+0 	 Ne vsebuje 	19405	 -0.008 
+1 		 Vsebuje 	19406	 0.385 
+0 	 Ne vsebuje 	19407	 -0.894 
+0 	 Ne vsebuje 	19408	 -1.066 
+0 	 Ne vsebuje 	19409	 -0.780 
+0 	 Ne vsebuje 	19410	 -0.422 
+1 		 Vsebuje 	19411	 0.582 
+0 	 Ne vsebuje 	19412	 -0.726 
+0 	 Ne vsebuje 	19413	 -0.714 
+0 	 Ne vsebuje 	19414	 -0.802 
+0 	 Ne vsebuje 	19415	 0.673 
+0 	 Ne vsebuje 	19416	 -0.723 
+0 	 Ne vsebuje 	19417	 -0.775 
+0 	 Ne vsebuje 	19418	 -0.071 
+0 	 Ne vsebuje 	19419	 -0.600 
+0 	 Ne vsebuje 	19420	 -0.013 
+0 	 Ne vsebuje 	19421	 0.122 
+0 	 Ne vsebuje 	19422	 -0.787 
+0 	 Ne vsebuje 	19423	 -0.940 
+0 	 Ne vsebuje 	19424	 -1.126 
+0 	 Ne vsebuje 	19425	 -0.439 
+0 	 Ne vsebuje 	19426	 -0.185 
+0 	 Ne vsebuje 	19427	 -0.576 
+0 	 Ne vsebuje 	19428	 -0.721 
+0 	 Ne vsebuje 	19429	 -0.654 
+0 	 Ne vsebuje 	19430	 -0.893 
+0 	 Ne vsebuje 	19431	 -0.594 
+0 	 Ne vsebuje 	19432	 -0.554 
+0 	 Ne vsebuje 	19433	 -0.133 
+0 	 Ne vsebuje 	19434	 -0.605 
+0 	 Ne vsebuje 	19435	 -0.891 
+0 	 Ne vsebuje 	19436	 -0.647 
+0 	 Ne vsebuje 	19437	 -0.106 
+0 	 Ne vsebuje 	19438	 -0.565 
+0 	 Ne vsebuje 	19439	 -0.810 
+0 	 Ne vsebuje 	19440	 -0.407 
+0 	 Ne vsebuje 	19441	 -0.893 
+0 	 Ne vsebuje 	19442	 -0.973 
+0 	 Ne vsebuje 	19443	 -0.576 
+0 	 Ne vsebuje 	19444	 -0.438 
+0 	 Ne vsebuje 	19445	 -0.403 
+0 	 Ne vsebuje 	19446	 -0.558 
+0 	 Ne vsebuje 	19447	 0.174 
+0 	 Ne vsebuje 	19448	 0.605 
+0 	 Ne vsebuje 	19449	 -0.231 
+0 	 Ne vsebuje 	19450	 -0.300 
+0 	 Ne vsebuje 	19451	 -0.341 
+0 	 Ne vsebuje 	19452	 -0.962 
+0 	 Ne vsebuje 	19453	 -0.728 
+0 	 Ne vsebuje 	19454	 -0.079 
+0 	 Ne vsebuje 	19455	 -0.586 
+0 	 Ne vsebuje 	19456	 -0.391 
+0 	 Ne vsebuje 	19457	 -0.993 
+0 	 Ne vsebuje 	19458	 0.025 
+0 	 Ne vsebuje 	19459	 -0.630 
+0 	 Ne vsebuje 	19460	 -0.971 
+0 	 Ne vsebuje 	19461	 0.025 
+0 	 Ne vsebuje 	19462	 -0.802 
+0 	 Ne vsebuje 	19463	 -0.025 
+0 	 Ne vsebuje 	19464	 -0.594 
+0 	 Ne vsebuje 	19465	 -0.290 
+0 	 Ne vsebuje 	19466	 -0.879 
+0 	 Ne vsebuje 	19467	 -1.134 
+0 	 Ne vsebuje 	19468	 -0.632 
+0 	 Ne vsebuje 	19469	 -0.583 
+0 	 Ne vsebuje 	19470	 -0.450 
+1 		 Vsebuje 	19471	 -0.517 
+0 	 Ne vsebuje 	19472	 -0.357 
+1 		 Vsebuje 	19473	 -0.638 
+1 		 Vsebuje 	19474	 0.506 
+0 	 Ne vsebuje 	19475	 -0.518 
+0 	 Ne vsebuje 	19476	 -1.068 
+0 	 Ne vsebuje 	19477	 0.037 
+0 	 Ne vsebuje 	19478	 -0.751 
+0 	 Ne vsebuje 	19479	 -0.291 
+0 	 Ne vsebuje 	19480	 0.426 
+1 		 Vsebuje 	19481	 1.261 
+0 	 Ne vsebuje 	19482	 -0.610 
+0 	 Ne vsebuje 	19483	 -0.660 
+0 	 Ne vsebuje 	19484	 -1.236 
+0 	 Ne vsebuje 	19485	 -0.839 
+0 	 Ne vsebuje 	19486	 -0.581 
+0 	 Ne vsebuje 	19487	 -0.870 
+0 	 Ne vsebuje 	19488	 -0.502 
+0 	 Ne vsebuje 	19489	 -0.288 
+0 	 Ne vsebuje 	19490	 -0.409 
+0 	 Ne vsebuje 	19491	 -0.820 
+0 	 Ne vsebuje 	19492	 -0.670 
+0 	 Ne vsebuje 	19493	 -0.798 
+1 		 Vsebuje 	19494	 0.169 
+0 	 Ne vsebuje 	19495	 0.802 
+0 	 Ne vsebuje 	19496	 -1.289 
+0 	 Ne vsebuje 	19497	 0.150 
+0 	 Ne vsebuje 	19498	 -0.525 
+0 	 Ne vsebuje 	19499	 -0.575 
+0 	 Ne vsebuje 	19500	 -0.946 
+0 	 Ne vsebuje 	19501	 -0.555 
+0 	 Ne vsebuje 	19502	 -0.721 
+0 	 Ne vsebuje 	19503	 -0.765 
+0 	 Ne vsebuje 	19504	 -1.004 
+0 	 Ne vsebuje 	19505	 -0.688 
+0 	 Ne vsebuje 	19506	 -0.804 
+0 	 Ne vsebuje 	19507	 -0.733 
+0 	 Ne vsebuje 	19508	 -0.760 
+0 	 Ne vsebuje 	19509	 -0.546 
+0 	 Ne vsebuje 	19510	 -0.832 
+0 	 Ne vsebuje 	19511	 -0.510 
+0 	 Ne vsebuje 	19512	 -0.518 
+1 		 Vsebuje 	19513	 -0.439 
+1 		 Vsebuje 	19514	 0.760 
+0 	 Ne vsebuje 	19515	 0.318 
+0 	 Ne vsebuje 	19516	 -0.888 
+0 	 Ne vsebuje 	19517	 -0.785 
+0 	 Ne vsebuje 	19518	 -0.286 
+0 	 Ne vsebuje 	19519	 -0.987 
+0 	 Ne vsebuje 	19520	 -0.833 
+0 	 Ne vsebuje 	19521	 -0.249 
+0 	 Ne vsebuje 	19522	 -1.199 
+0 	 Ne vsebuje 	19523	 -1.326 
+0 	 Ne vsebuje 	19524	 -0.894 
+0 	 Ne vsebuje 	19525	 -0.831 
+0 	 Ne vsebuje 	19526	 -1.217 
+0 	 Ne vsebuje 	19527	 -1.049 
+0 	 Ne vsebuje 	19528	 -1.433 
+0 	 Ne vsebuje 	19529	 -1.066 
+0 	 Ne vsebuje 	19530	 -0.479 
+0 	 Ne vsebuje 	19531	 -1.512 
+0 	 Ne vsebuje 	19532	 -0.853 
+0 	 Ne vsebuje 	19533	 -1.398 
+0 	 Ne vsebuje 	19534	 -0.939 
+0 	 Ne vsebuje 	19535	 -0.924 
+0 	 Ne vsebuje 	19536	 -0.675 
+0 	 Ne vsebuje 	19537	 -0.446 
+0 	 Ne vsebuje 	19538	 -0.489 
+0 	 Ne vsebuje 	19539	 -0.719 
+0 	 Ne vsebuje 	19540	 -1.013 
+0 	 Ne vsebuje 	19541	 -0.674 
+0 	 Ne vsebuje 	19542	 -0.444 
+0 	 Ne vsebuje 	19543	 -0.738 
+0 	 Ne vsebuje 	19544	 -0.816 
+1 		 Vsebuje 	19545	 -0.175 
+0 	 Ne vsebuje 	19546	 -1.090 
+0 	 Ne vsebuje 	19547	 -0.709 
+0 	 Ne vsebuje 	19548	 -0.883 
+0 	 Ne vsebuje 	19549	 -1.321 
+0 	 Ne vsebuje 	19550	 0.050 
+0 	 Ne vsebuje 	19551	 -1.257 
+0 	 Ne vsebuje 	19552	 -0.725 
+0 	 Ne vsebuje 	19553	 -0.414 
+0 	 Ne vsebuje 	19554	 -1.027 
+0 	 Ne vsebuje 	19555	 -0.656 
+0 	 Ne vsebuje 	19556	 -0.527 
+0 	 Ne vsebuje 	19557	 -1.236 
+0 	 Ne vsebuje 	19558	 -0.510 
+0 	 Ne vsebuje 	19559	 -0.884 
+0 	 Ne vsebuje 	19560	 -0.916 
+0 	 Ne vsebuje 	19561	 -1.070 
+0 	 Ne vsebuje 	19562	 -0.002 
+0 	 Ne vsebuje 	19563	 -0.927 
+0 	 Ne vsebuje 	19564	 -0.861 
+0 	 Ne vsebuje 	19565	 -0.704 
+0 	 Ne vsebuje 	19566	 -0.568 
+0 	 Ne vsebuje 	19567	 -0.872 
+0 	 Ne vsebuje 	19568	 -0.660 
+0 	 Ne vsebuje 	19569	 -1.642 
+1 		 Vsebuje 	19570	 -0.175 
+0 	 Ne vsebuje 	19571	 -0.748 
+0 	 Ne vsebuje 	19572	 -0.709 
+0 	 Ne vsebuje 	19573	 -0.559 
+1 		 Vsebuje 	19574	 1.261 
+0 	 Ne vsebuje 	19575	 -0.610 
+0 	 Ne vsebuje 	19576	 0.556 
+0 	 Ne vsebuje 	19577	 -0.869 
+0 	 Ne vsebuje 	19578	 -1.030 
+0 	 Ne vsebuje 	19579	 -0.913 
+0 	 Ne vsebuje 	19580	 -1.251 
+0 	 Ne vsebuje 	19581	 -0.950 
+0 	 Ne vsebuje 	19582	 -0.857 
+0 	 Ne vsebuje 	19583	 -1.131 
+0 	 Ne vsebuje 	19584	 -0.988 
+0 	 Ne vsebuje 	19585	 -1.268 
+0 	 Ne vsebuje 	19586	 -1.214 
+0 	 Ne vsebuje 	19587	 -0.695 
+0 	 Ne vsebuje 	19588	 -1.048 
+0 	 Ne vsebuje 	19589	 -0.945 
+0 	 Ne vsebuje 	19590	 -0.947 
+0 	 Ne vsebuje 	19591	 -1.136 
+0 	 Ne vsebuje 	19592	 -1.026 
+0 	 Ne vsebuje 	19593	 -0.836 
+0 	 Ne vsebuje 	19594	 -1.049 
+0 	 Ne vsebuje 	19595	 -0.873 
+0 	 Ne vsebuje 	19596	 -0.677 
+0 	 Ne vsebuje 	19597	 -1.006 
+0 	 Ne vsebuje 	19598	 -1.205 
+0 	 Ne vsebuje 	19599	 -0.793 
+0 	 Ne vsebuje 	19600	 -0.830 
+0 	 Ne vsebuje 	19601	 -1.204 
+0 	 Ne vsebuje 	19602	 -0.766 
+0 	 Ne vsebuje 	19603	 -1.160 
+0 	 Ne vsebuje 	19604	 -0.858 
+0 	 Ne vsebuje 	19605	 -1.233 
+0 	 Ne vsebuje 	19606	 -1.274 
+0 	 Ne vsebuje 	19607	 -0.562 
+0 	 Ne vsebuje 	19608	 -1.123 
+0 	 Ne vsebuje 	19609	 -0.875 
+0 	 Ne vsebuje 	19610	 -0.834 
+0 	 Ne vsebuje 	19611	 -0.956 
+0 	 Ne vsebuje 	19612	 -0.856 
+0 	 Ne vsebuje 	19613	 -0.968 
+0 	 Ne vsebuje 	19614	 -0.991 
+0 	 Ne vsebuje 	19615	 -1.008 
+0 	 Ne vsebuje 	19616	 -0.779 
+0 	 Ne vsebuje 	19617	 -0.988 
+0 	 Ne vsebuje 	19618	 -1.266 
+0 	 Ne vsebuje 	19619	 -1.182 
+0 	 Ne vsebuje 	19620	 -1.167 
+0 	 Ne vsebuje 	19621	 -1.089 
+0 	 Ne vsebuje 	19622	 -1.004 
+0 	 Ne vsebuje 	19623	 -1.224 
+0 	 Ne vsebuje 	19624	 -1.168 
+0 	 Ne vsebuje 	19625	 -0.878 
+0 	 Ne vsebuje 	19626	 -1.259 
+0 	 Ne vsebuje 	19627	 -0.823 
+0 	 Ne vsebuje 	19628	 -0.518 
+0 	 Ne vsebuje 	19629	 -0.774 
+0 	 Ne vsebuje 	19630	 -1.117 
+0 	 Ne vsebuje 	19631	 -0.902 
+0 	 Ne vsebuje 	19632	 -1.019 
+0 	 Ne vsebuje 	19633	 -1.212 
+0 	 Ne vsebuje 	19634	 -0.719 
+0 	 Ne vsebuje 	19635	 -1.189 
+0 	 Ne vsebuje 	19636	 -1.297 
+0 	 Ne vsebuje 	19637	 -1.000 
+0 	 Ne vsebuje 	19638	 -0.989 
+0 	 Ne vsebuje 	19639	 -1.206 
+0 	 Ne vsebuje 	19640	 -1.093 
+0 	 Ne vsebuje 	19641	 -1.072 
+0 	 Ne vsebuje 	19642	 -0.793 
+0 	 Ne vsebuje 	19643	 -1.040 
+0 	 Ne vsebuje 	19644	 -1.089 
+0 	 Ne vsebuje 	19645	 -1.127 
+0 	 Ne vsebuje 	19646	 -1.182 
+0 	 Ne vsebuje 	19647	 -0.913 
+0 	 Ne vsebuje 	19648	 -1.066 
+0 	 Ne vsebuje 	19649	 -0.995 
+0 	 Ne vsebuje 	19650	 -0.861 
+0 	 Ne vsebuje 	19651	 -1.388 
+0 	 Ne vsebuje 	19652	 -1.388 
+0 	 Ne vsebuje 	19653	 -0.974 
+0 	 Ne vsebuje 	19654	 -1.073 
+0 	 Ne vsebuje 	19655	 -0.820 
+0 	 Ne vsebuje 	19656	 -1.241 
+0 	 Ne vsebuje 	19657	 -0.911 
+0 	 Ne vsebuje 	19658	 -1.083 
+0 	 Ne vsebuje 	19659	 -1.104 
+0 	 Ne vsebuje 	19660	 -1.020 
+0 	 Ne vsebuje 	19661	 -1.184 
+0 	 Ne vsebuje 	19662	 -1.129 
+0 	 Ne vsebuje 	19663	 -1.093 
+0 	 Ne vsebuje 	19664	 -0.793 
+0 	 Ne vsebuje 	19665	 -0.835 
+0 	 Ne vsebuje 	19666	 -0.569 
+0 	 Ne vsebuje 	19667	 -1.178 
+0 	 Ne vsebuje 	19668	 -1.120 
+0 	 Ne vsebuje 	19669	 -1.072 
+0 	 Ne vsebuje 	19670	 -1.254 
+0 	 Ne vsebuje 	19671	 -1.190 
+0 	 Ne vsebuje 	19672	 -1.145 
+0 	 Ne vsebuje 	19673	 -0.827 
+0 	 Ne vsebuje 	19674	 -1.074 
+0 	 Ne vsebuje 	19675	 -1.255 
+0 	 Ne vsebuje 	19676	 -1.151 
+0 	 Ne vsebuje 	19677	 -0.987 
+0 	 Ne vsebuje 	19678	 -1.104 
+0 	 Ne vsebuje 	19679	 -0.932 
+0 	 Ne vsebuje 	19680	 -1.071 
+0 	 Ne vsebuje 	19681	 -1.096 
+0 	 Ne vsebuje 	19682	 -1.048 
+0 	 Ne vsebuje 	19683	 -1.169 
+0 	 Ne vsebuje 	19684	 -0.769 
+0 	 Ne vsebuje 	19685	 -0.812 
+0 	 Ne vsebuje 	19686	 -1.039 
+0 	 Ne vsebuje 	19687	 -1.084 
+0 	 Ne vsebuje 	19688	 -1.008 
+0 	 Ne vsebuje 	19689	 -0.978 
+0 	 Ne vsebuje 	19690	 -1.195 
+0 	 Ne vsebuje 	19691	 -1.177 
+0 	 Ne vsebuje 	19692	 -1.141 
+0 	 Ne vsebuje 	19693	 -0.736 
+0 	 Ne vsebuje 	19694	 -0.875 
+0 	 Ne vsebuje 	19695	 -0.896 
+0 	 Ne vsebuje 	19696	 -0.900 
+0 	 Ne vsebuje 	19697	 -0.756 
+0 	 Ne vsebuje 	19698	 0.005 
+0 	 Ne vsebuje 	19699	 -1.090 
+0 	 Ne vsebuje 	19700	 -0.430 
+0 	 Ne vsebuje 	19701	 -1.083 
+0 	 Ne vsebuje 	19702	 -0.600 
+1 		 Vsebuje 	19703	 0.358 
+0 	 Ne vsebuje 	19704	 0.114 
+0 	 Ne vsebuje 	19705	 -0.754 
+0 	 Ne vsebuje 	19706	 -0.644 
+0 	 Ne vsebuje 	19707	 -0.535 
+0 	 Ne vsebuje 	19708	 -0.451 
+0 	 Ne vsebuje 	19709	 -0.020 
+1 		 Vsebuje 	19710	 0.242 
+1 		 Vsebuje 	19711	 0.242 
+1 		 Vsebuje 	19712	 -0.120 
+0 	 Ne vsebuje 	19713	 -0.894 
+1 		 Vsebuje 	19714	 0.030 
+0 	 Ne vsebuje 	19715	 -0.787 
+0 	 Ne vsebuje 	19716	 -1.038 
+0 	 Ne vsebuje 	19717	 0.922 
+0 	 Ne vsebuje 	19718	 -1.020 
+0 	 Ne vsebuje 	19719	 -0.430 
+0 	 Ne vsebuje 	19720	 -0.970 
+0 	 Ne vsebuje 	19721	 -0.004 
+1 		 Vsebuje 	19722	 0.769 
+0 	 Ne vsebuje 	19723	 -1.290 
+0 	 Ne vsebuje 	19724	 -0.638 
+0 	 Ne vsebuje 	19725	 -0.537 
+1 		 Vsebuje 	19726	 0.062 
+1 		 Vsebuje 	19727	 0.674 
+1 		 Vsebuje 	19728	 0.083 
+1 		 Vsebuje 	19729	 -0.461 
+0 	 Ne vsebuje 	19730	 0.005 
+1 		 Vsebuje 	19731	 -0.037 
+0 	 Ne vsebuje 	19732	 -0.876 
+1 		 Vsebuje 	19733	 0.139 
+0 	 Ne vsebuje 	19734	 -0.006 
+1 		 Vsebuje 	19735	 -0.377 
+1 		 Vsebuje 	19736	 0.920 
+1 		 Vsebuje 	19737	 0.380 
+0 	 Ne vsebuje 	19738	 -0.605 
+1 		 Vsebuje 	19739	 -0.551 
+0 	 Ne vsebuje 	19740	 0.377 
+0 	 Ne vsebuje 	19741	 -0.448 
+1 		 Vsebuje 	19742	 0.372 
+0 	 Ne vsebuje 	19743	 0.065 
+0 	 Ne vsebuje 	19744	 -0.852 
+0 	 Ne vsebuje 	19745	 -0.355 
+0 	 Ne vsebuje 	19746	 -0.241 
+0 	 Ne vsebuje 	19747	 -0.688 
+0 	 Ne vsebuje 	19748	 -0.890 
+0 	 Ne vsebuje 	19749	 -0.585 
+0 	 Ne vsebuje 	19750	 -0.047 
+0 	 Ne vsebuje 	19751	 0.305 
+0 	 Ne vsebuje 	19752	 -0.589 
+0 	 Ne vsebuje 	19753	 -0.734 
+0 	 Ne vsebuje 	19754	 -0.880 
+0 	 Ne vsebuje 	19755	 -0.702 
+0 	 Ne vsebuje 	19756	 -0.981 
+0 	 Ne vsebuje 	19757	 -0.864 
+0 	 Ne vsebuje 	19758	 -1.366 
+0 	 Ne vsebuje 	19759	 0.381 
+0 	 Ne vsebuje 	19760	 -1.009 
+0 	 Ne vsebuje 	19761	 -0.090 
+0 	 Ne vsebuje 	19762	 -0.901 
+0 	 Ne vsebuje 	19763	 -0.881 
+0 	 Ne vsebuje 	19764	 -0.090 
+0 	 Ne vsebuje 	19765	 0.571 
+0 	 Ne vsebuje 	19766	 -0.690 
+0 	 Ne vsebuje 	19767	 -0.794 
+0 	 Ne vsebuje 	19768	 0.901 
+0 	 Ne vsebuje 	19769	 -0.877 
+0 	 Ne vsebuje 	19770	 0.700 
+0 	 Ne vsebuje 	19771	 -0.375 
+0 	 Ne vsebuje 	19772	 -0.609 
+0 	 Ne vsebuje 	19773	 -1.108 
+0 	 Ne vsebuje 	19774	 0.643 
+0 	 Ne vsebuje 	19775	 -0.301 
+0 	 Ne vsebuje 	19776	 -0.645 
+0 	 Ne vsebuje 	19777	 -0.220 
+1 		 Vsebuje 	19778	 0.304 
+0 	 Ne vsebuje 	19779	 0.477 
+0 	 Ne vsebuje 	19780	 0.332 
+0 	 Ne vsebuje 	19781	 0.927 
+0 	 Ne vsebuje 	19782	 0.645 
+0 	 Ne vsebuje 	19783	 0.930 
+0 	 Ne vsebuje 	19784	 -0.576 
+0 	 Ne vsebuje 	19785	 -0.724 
+0 	 Ne vsebuje 	19786	 0.597 
+0 	 Ne vsebuje 	19787	 -0.894 
+0 	 Ne vsebuje 	19788	 -1.153 
+0 	 Ne vsebuje 	19789	 -1.402 
+0 	 Ne vsebuje 	19790	 -1.228 
+0 	 Ne vsebuje 	19791	 -0.930 
+0 	 Ne vsebuje 	19792	 -1.227 
+0 	 Ne vsebuje 	19793	 -0.273 
+0 	 Ne vsebuje 	19794	 -0.793 
+0 	 Ne vsebuje 	19795	 -0.411 
+0 	 Ne vsebuje 	19796	 -0.879 
+0 	 Ne vsebuje 	19797	 -0.936 
+0 	 Ne vsebuje 	19798	 -1.090 
+0 	 Ne vsebuje 	19799	 0.410 
+0 	 Ne vsebuje 	19800	 -0.612 
+0 	 Ne vsebuje 	19801	 -0.925 
+0 	 Ne vsebuje 	19802	 -0.772 
+0 	 Ne vsebuje 	19803	 -1.082 
+0 	 Ne vsebuje 	19804	 -0.698 
+0 	 Ne vsebuje 	19805	 -0.856 
+0 	 Ne vsebuje 	19806	 -0.927 
+1 		 Vsebuje 	19807	 -0.541 
+0 	 Ne vsebuje 	19808	 -1.251 
+0 	 Ne vsebuje 	19809	 -1.163 
+0 	 Ne vsebuje 	19810	 -1.199 
+0 	 Ne vsebuje 	19811	 -0.995 
+0 	 Ne vsebuje 	19812	 -1.566 
+0 	 Ne vsebuje 	19813	 -0.131 
+0 	 Ne vsebuje 	19814	 0.603 
+1 		 Vsebuje 	19815	 -0.440 
+0 	 Ne vsebuje 	19816	 -0.827 
+0 	 Ne vsebuje 	19817	 -0.680 
+0 	 Ne vsebuje 	19818	 -0.318 
+0 	 Ne vsebuje 	19819	 -0.464 
+1 		 Vsebuje 	19820	 1.143 
+0 	 Ne vsebuje 	19821	 -0.968 
+0 	 Ne vsebuje 	19822	 0.769 
+0 	 Ne vsebuje 	19823	 -0.881 
+0 	 Ne vsebuje 	19824	 0.865 
+0 	 Ne vsebuje 	19825	 0.721 
+0 	 Ne vsebuje 	19826	 -0.599 
+0 	 Ne vsebuje 	19827	 -0.460 
+0 	 Ne vsebuje 	19828	 -1.076 
+0 	 Ne vsebuje 	19829	 -0.628 
+0 	 Ne vsebuje 	19830	 -0.759 
+0 	 Ne vsebuje 	19831	 -1.073 
+0 	 Ne vsebuje 	19832	 -0.685 
+1 		 Vsebuje 	19833	 0.786 
+0 	 Ne vsebuje 	19834	 -0.759 
+1 		 Vsebuje 	19835	 -0.149 
+0 	 Ne vsebuje 	19836	 -0.923 
+0 	 Ne vsebuje 	19837	 -0.415 
+0 	 Ne vsebuje 	19838	 0.325 
+0 	 Ne vsebuje 	19839	 -0.185 
+0 	 Ne vsebuje 	19840	 -0.311 
+0 	 Ne vsebuje 	19841	 -1.196 
+0 	 Ne vsebuje 	19842	 -0.710 
+0 	 Ne vsebuje 	19843	 -0.526 
+0 	 Ne vsebuje 	19844	 -0.500 
+0 	 Ne vsebuje 	19845	 -0.545 
+0 	 Ne vsebuje 	19846	 -0.436 
+0 	 Ne vsebuje 	19847	 -0.393 
+0 	 Ne vsebuje 	19848	 -0.394 
+0 	 Ne vsebuje 	19849	 -0.519 
+0 	 Ne vsebuje 	19850	 -0.726 
+1 		 Vsebuje 	19851	 0.625 
+0 	 Ne vsebuje 	19852	 -0.447 
+0 	 Ne vsebuje 	19853	 -0.687 
+0 	 Ne vsebuje 	19854	 -0.457 
+0 	 Ne vsebuje 	19855	 -0.643 
+0 	 Ne vsebuje 	19856	 -0.599 
+1 		 Vsebuje 	19857	 0.712 
+0 	 Ne vsebuje 	19858	 -0.394 
+0 	 Ne vsebuje 	19859	 -0.256 
+0 	 Ne vsebuje 	19860	 -0.510 
+0 	 Ne vsebuje 	19861	 -0.695 
+0 	 Ne vsebuje 	19862	 -0.430 
+0 	 Ne vsebuje 	19863	 -0.283 
+0 	 Ne vsebuje 	19864	 0.056 
+0 	 Ne vsebuje 	19865	 -0.873 
+0 	 Ne vsebuje 	19866	 -0.737 
+0 	 Ne vsebuje 	19867	 -0.900 
+0 	 Ne vsebuje 	19868	 0.183 
+0 	 Ne vsebuje 	19869	 -0.341 
+0 	 Ne vsebuje 	19870	 -0.609 
+0 	 Ne vsebuje 	19871	 0.368 
+0 	 Ne vsebuje 	19872	 -0.683 
+0 	 Ne vsebuje 	19873	 -0.615 
+0 	 Ne vsebuje 	19874	 -0.501 
+0 	 Ne vsebuje 	19875	 -0.651 
+1 		 Vsebuje 	19876	 -0.402 
+0 	 Ne vsebuje 	19877	 -0.793 
+0 	 Ne vsebuje 	19878	 -0.611 
+0 	 Ne vsebuje 	19879	 -0.921 
+0 	 Ne vsebuje 	19880	 -0.734 
+0 	 Ne vsebuje 	19881	 -0.365 
+1 		 Vsebuje 	19882	 -0.014 
+0 	 Ne vsebuje 	19883	 -0.548 
+0 	 Ne vsebuje 	19884	 -0.684 
+1 		 Vsebuje 	19885	 0.272 
+0 	 Ne vsebuje 	19886	 -0.894 
+0 	 Ne vsebuje 	19887	 -0.657 
+0 	 Ne vsebuje 	19888	 0.358 
+0 	 Ne vsebuje 	19889	 -0.690 
+0 	 Ne vsebuje 	19890	 -0.059 
+0 	 Ne vsebuje 	19891	 -0.656 
+0 	 Ne vsebuje 	19892	 -0.844 
+0 	 Ne vsebuje 	19893	 -0.835 
+0 	 Ne vsebuje 	19894	 -0.842 
+0 	 Ne vsebuje 	19895	 -0.454 
+0 	 Ne vsebuje 	19896	 -0.769 
+0 	 Ne vsebuje 	19897	 -0.729 
+0 	 Ne vsebuje 	19898	 -0.733 
+0 	 Ne vsebuje 	19899	 -0.770 
+0 	 Ne vsebuje 	19900	 -0.551 
+0 	 Ne vsebuje 	19901	 -0.398 
+0 	 Ne vsebuje 	19902	 -0.583 
+0 	 Ne vsebuje 	19903	 -0.666 
+0 	 Ne vsebuje 	19904	 -0.738 
+0 	 Ne vsebuje 	19905	 -0.966 
+0 	 Ne vsebuje 	19906	 -0.924 
+0 	 Ne vsebuje 	19907	 -0.974 
+0 	 Ne vsebuje 	19908	 -0.828 
+0 	 Ne vsebuje 	19909	 -0.510 
+0 	 Ne vsebuje 	19910	 -0.318 
+0 	 Ne vsebuje 	19911	 -0.331 
+0 	 Ne vsebuje 	19912	 -1.093 
+1 		 Vsebuje 	19913	 -0.471 
+1 		 Vsebuje 	19914	 -0.001 
+1 		 Vsebuje 	19915	 -0.241 
+1 		 Vsebuje 	19916	 -0.141 
+0 	 Ne vsebuje 	19917	 0.483 
+1 		 Vsebuje 	19918	 -0.097 
+1 		 Vsebuje 	19919	 -0.425 
+1 		 Vsebuje 	19920	 -0.315 
+0 	 Ne vsebuje 	19921	 -1.102 
+0 	 Ne vsebuje 	19922	 -1.116 
+0 	 Ne vsebuje 	19923	 -0.485 
+0 	 Ne vsebuje 	19924	 -0.374 
+0 	 Ne vsebuje 	19925	 -0.853 
+0 	 Ne vsebuje 	19926	 -0.365 
+0 	 Ne vsebuje 	19927	 0.176 
+0 	 Ne vsebuje 	19928	 0.237 
+0 	 Ne vsebuje 	19929	 -0.080 
+0 	 Ne vsebuje 	19930	 -0.872 
+0 	 Ne vsebuje 	19931	 -0.367 
+1 		 Vsebuje 	19932	 -0.072 
+0 	 Ne vsebuje 	19933	 0.300 
+0 	 Ne vsebuje 	19934	 -0.052 
+1 		 Vsebuje 	19935	 -0.401 
+0 	 Ne vsebuje 	19936	 -0.032 
+0 	 Ne vsebuje 	19937	 -0.105 
+1 		 Vsebuje 	19938	 -0.395 
+0 	 Ne vsebuje 	19939	 -0.482 
+0 	 Ne vsebuje 	19940	 -0.559 
+0 	 Ne vsebuje 	19941	 -0.378 
+0 	 Ne vsebuje 	19942	 -0.448 
+1 		 Vsebuje 	19943	 -0.409 
+1 		 Vsebuje 	19944	 -0.422 
+1 		 Vsebuje 	19945	 0.050 
+1 		 Vsebuje 	19946	 0.491 
+1 		 Vsebuje 	19947	 -0.240 
+0 	 Ne vsebuje 	19948	 -0.416 
+1 		 Vsebuje 	19949	 -0.298 
+1 		 Vsebuje 	19950	 -0.076 
+0 	 Ne vsebuje 	19951	 -0.800 
+0 	 Ne vsebuje 	19952	 -1.136 
+0 	 Ne vsebuje 	19953	 -1.030 
+0 	 Ne vsebuje 	19954	 -1.049 
+0 	 Ne vsebuje 	19955	 -0.685 
+0 	 Ne vsebuje 	19956	 -1.073 
+0 	 Ne vsebuje 	19957	 -0.871 
+0 	 Ne vsebuje 	19958	 -1.011 
+0 	 Ne vsebuje 	19959	 -1.160 
+0 	 Ne vsebuje 	19960	 -0.984 
+0 	 Ne vsebuje 	19961	 -0.940 
+0 	 Ne vsebuje 	19962	 -1.111 
+0 	 Ne vsebuje 	19963	 -0.697 
+0 	 Ne vsebuje 	19964	 -0.994 
+0 	 Ne vsebuje 	19965	 -1.116 
+0 	 Ne vsebuje 	19966	 -0.943 
+0 	 Ne vsebuje 	19967	 -1.204 
+0 	 Ne vsebuje 	19968	 -0.699 
+0 	 Ne vsebuje 	19969	 -0.862 
+0 	 Ne vsebuje 	19970	 -1.206 
+0 	 Ne vsebuje 	19971	 -1.208 
+0 	 Ne vsebuje 	19972	 -1.214 
+0 	 Ne vsebuje 	19973	 -0.868 
+0 	 Ne vsebuje 	19974	 -0.945 
+0 	 Ne vsebuje 	19975	 -1.135 
+0 	 Ne vsebuje 	19976	 -0.947 
+0 	 Ne vsebuje 	19977	 -0.813 
+0 	 Ne vsebuje 	19978	 -1.196 
+0 	 Ne vsebuje 	19979	 -0.913 
+0 	 Ne vsebuje 	19980	 -1.065 
+0 	 Ne vsebuje 	19981	 -1.043 
+0 	 Ne vsebuje 	19982	 -1.199 
+0 	 Ne vsebuje 	19983	 -0.949 
+0 	 Ne vsebuje 	19984	 -0.740 
+0 	 Ne vsebuje 	19985	 -0.887 
+0 	 Ne vsebuje 	19986	 -0.803 
+0 	 Ne vsebuje 	19987	 -1.065 
+0 	 Ne vsebuje 	19988	 -1.178 
+0 	 Ne vsebuje 	19989	 -1.016 
+0 	 Ne vsebuje 	19990	 -1.153 
+0 	 Ne vsebuje 	19991	 -0.986 
+0 	 Ne vsebuje 	19992	 -0.665 
+0 	 Ne vsebuje 	19993	 -0.958 
+0 	 Ne vsebuje 	19994	 -1.200 
+0 	 Ne vsebuje 	19995	 -0.760 
+0 	 Ne vsebuje 	19996	 -0.742 
+0 	 Ne vsebuje 	19997	 -0.679 
+0 	 Ne vsebuje 	19998	 -0.893 
+0 	 Ne vsebuje 	19999	 -1.145 
