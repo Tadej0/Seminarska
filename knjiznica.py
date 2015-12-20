@@ -72,8 +72,8 @@ def oskubiBesedilo(besedilo, brisiNiz):
         if (x==":"):
             break
         else:
-            konec+=1
-    konec +=1
+            konec += 1
+    konec += 1
     novNiz=besedilo[0:konec]
     konec = 0
 
@@ -213,4 +213,14 @@ def aliNizVsebujeNiz(niz, podniz):
         return 1
     else:
         return 0
+
+def dodajTabulator(string):
+    stevec = 0
+    for x in string:
+        if (x==':'):
+            break
+        else:
+            stevec +=1
+    novNiz = string[0:stevec] + "\t" + string[(stevec+1):len(string)]
+    return (novNiz)
 
