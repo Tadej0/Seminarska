@@ -223,3 +223,7 @@ def dodajTabulator(string):
             stevec +=1
     novNiz = string[0:stevec] + "\t" + string[(stevec+1):len(string)]
     return (novNiz)
+
+def pikaVejica(string):
+    string = string.replace('.',',')
+    return string
