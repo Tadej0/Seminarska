@@ -122,6 +122,8 @@ def drugiDel():
 
 def bowClassifyUporaba(lokacijaUcenega, kategorija, jedro):
     naslovRezultati = statistikaMapa + "Rezultati_" + kategorija + "_" + jedro + ".txt"
+    naslovRezultatiExcel = statistikaMapa + "Rezultati_" + kategorija + "_" + jedro + "_Excel.txt"
+    excel = open(naslovRezultatiExcel, "a+")
     rezultati = open(naslovRezultati, "a+")
     tmpNaslov = tmpRezultati + kategorija + "_" + jedro+"/"
     os.mkdir(tmpNaslov)
@@ -150,12 +152,15 @@ def bowClassifyUporaba(lokacijaUcenega, kategorija, jedro):
         if (aliJe == 1):
             stringOdg = "1 \t\t Vsebuje \t"
         elif (aliJe == 0):
-            stringOdg = "0 \t Ne vsebuje \t"
+            stringOdg = "0 \t\t Ne vsebuje \t"
         string = stringOdg + dokument +":\t\t" + niz
         string = knjiznica.oskubiBesedilo(string, kategorija)
         string = knjiznica.dodajTabulator(string)
         rezultati.write(string)
+        stringVejica = knjiznica.pikaVejica(string)
+        excel.write(stringVejica)
         tmp.close()
+    excel.close()
     rezultati.close()
     knjiznica.zvok()
 
