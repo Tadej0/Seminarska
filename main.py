@@ -153,6 +153,7 @@ def bowClassifyUporaba(lokacijaUcenega, kategorija, jedro):
             stringOdg = "0 \t Ne vsebuje \t"
         string = stringOdg + dokument +":\t\t" + niz
         string = knjiznica.oskubiBesedilo(string, kategorija)
+        string = knjiznica.dodajTabulator(string)
         rezultati.write(string)
         tmp.close()
     rezultati.close()
@@ -257,7 +258,6 @@ def tretjiDel():
     obdelavaDrugegaBesedila()
 
 
-# Tukaj vse popravi!!!
 
 def bowClassifyUporabaNadClankom(lokacijaUcenja, kategorija, jedro, imeClanka, lokacijaZunanjiClanek):
     tmpNaslov = konkretniClanki + imeClanka + "_" + kategorija + "_" + jedro + "/"
